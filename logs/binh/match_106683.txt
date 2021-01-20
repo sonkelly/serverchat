@@ -1,0 +1,20 @@
+Tao ban: (243099)popeye3
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  10co 8ro 12co 9co 11bich 9tep 2co 4bich 13co 12ro 8bich 2bich 5bich
+Chia bai: (243081)popeye2 poker:  6bich 4ro 3ro 2tep 1ro 11co 10ro 11tep 12bich 6co 8co 8tep 6ro
+Xep xong: (243081)popeye2 Poker: 19#30#29#2#27#50#36#11#25#45#47#8#32 6bich 4ro 3ro 2tep 1ro 11co 10ro 11tep 12bich 6co 8co 8tep 6ro
+Xep xong: (243099)popeye3 Poker: 49#48#51#52#24#9#21#34#17#38#18#15#41 10co 9co 12co 13co 11bich 9tep 8bich 8ro 4bich 12ro 5bich 2bich 2co
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : Binh lung 
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 3000 ip: /192.168.2.111:53644
+ID van choi matchID: 106683matchNum:1
+Tinh tien: (243081)popeye2 : 3000
+ID van choi matchID: 106683matchNum:1
+
+
+Thoat khoi ban: (243081)popeye2
+Thoat khoi ban: (243099)popeye3
+

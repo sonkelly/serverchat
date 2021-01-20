@@ -1,0 +1,37 @@
+player: sonkelly join: 15000
+pure cards: 9#34#20#41#
+comunity cards: 44#33#42#31#12#
+player : 0 : 9tep#8ro
+player : 1 : 7bich#2co
+do timeout
+betInfo uid: 246150 money:0
+do timeout
+betInfo uid: 246151 money:0
+betInfo uid: 246150 money:0
+do timeout
+betInfo uid: 246151 money:0
+betInfo uid: 246150 money:0
+do timeout
+betInfo uid: 246151 money:0
+betInfo uid: 246150 money:0
+do timeout
+betInfo uid: 246150 money:0
+betInfo uid: 246151 money:0
+
+------------end match
+
+pure cards: 24#8#34#5#
+comunity cards: 2#19#44#41#51#
+player : 0 : 11bich#8tep
+player : 1 : 8ro#5tep
+do timeout
+betInfo uid: 246151 money:-1
+do timeout
+cancel player:linhpham99
+Remove player 246150
+cancel player:sonkelly
+
+
+
+------------end match
+

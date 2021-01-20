@@ -1,0 +1,8 @@
+player: manhuni7 join
+cancel player:MANHUNI6
+cancel player:MANHUNI7
+
+player: manhuni7 join
+cancel player:MANHUNI6
+cancel player:MANHUNI7
+

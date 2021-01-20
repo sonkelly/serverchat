@@ -1,0 +1,60 @@
+Tao ban: (243081)popeye2
+Vao ban: (243077)popeye
+Bat dau van moi.......
+Chia bai: (243081)popeye2 poker:  3tep 6ro 6bich 7co 7ro 8bich 8co 11bich 12tep 12ro 12co 13tep 13ro
+Chia bai: (243077)popeye poker:  3co 3ro 3bich 5tep 6co 9tep 9ro 9co 10ro 10bich 12bich 1tep 2bich
+Danh: (243077)popeye 5 [ 5tep]
+Danh: (243081)popeye2 32#33#46 [ 6ro 7ro 7co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 42 [ 3co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 29 [ 3ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 16 [ 3bich]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 45 [ 6co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 9 [ 9tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 35 [ 9ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 48 [ 9co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 36 [ 10ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 23 [ 10bich]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 25 [ 12bich]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 1 [ 1tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 15 [ 2bich]
+ Ket thuc van 
+Tinh tien: (243081)popeye2 : -15500 ip: /192.168.2.111:59714
+ID van choi matchID: 91511matchNum:1
+Tinh tien: (243077)popeye : 14725
+ID van choi matchID: 91511matchNum:1
+
+

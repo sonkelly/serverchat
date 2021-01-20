@@ -1,0 +1,205 @@
+player: popeye3 join
+pure cards: 20#40#22#26#50#5#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:2750
+player total call uid: 243081 money: 500 bet money: 2750
+Total call: 3250
+roundbet: 3250
+betInfo uid: 243099 money:0
+player total call uid: 243099 money: 500 bet money: 0
+Total call: 5500
+roundbet: 3250
+End game
+
+------------end match
+
+pure cards: 37#42#27#45#1#4#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:5362
+player total call uid: 243081 money: 500 bet money: 5362
+Total call: 5862
+roundbet: 5862
+betInfo uid: 243099 money:2343
+player total call uid: 243099 money: 500 bet money: 2343
+Total call: 8112
+roundbet: 8205
+End game
+
+------------end match
+
+pure cards: 30#29#15#4#25#28#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:7974
+player total call uid: 243081 money: 500 bet money: 7974
+Total call: 8474
+roundbet: 8474
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243099 money:-1
+
+------------end match
+
+pure cards: 7#47#32#21#26#3#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243081 money:-1
+
+------------end match
+
+pure cards: 41#51#36#20#9#45#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243099 money:2089
+player total call uid: 243099 money: 500 bet money: 2089
+Total call: 3089
+roundbet: 2589
+betInfo uid: 243081 money:7949
+player total call uid: 243081 money: 500 bet money: 7949
+Total call: 10538
+roundbet: 10538
+betInfo uid: 243099 money:544
+player total call uid: 243099 money: 2589 bet money: 544
+Total call: 10674
+roundbet: 11082
+End game
+
+------------end match
+
+pure cards: 26#43#12#49#7#13#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:10537
+player total call uid: 243081 money: 500 bet money: 10537
+Total call: 11037
+roundbet: 11037
+betInfo uid: 243099 money:2750
+player total call uid: 243099 money: 500 bet money: 2750
+Total call: 13287
+roundbet: 13787
+End game
+
+------------end match
+
+pure cards: 35#6#17#28#44#45#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243099 money:-1
+
+------------end match
+
+pure cards: 34#6#22#7#20#42#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:8262
+player total call uid: 243081 money: 500 bet money: 8262
+Total call: 8762
+roundbet: 8762
+betInfo uid: 243099 money:4862
+player total call uid: 243099 money: 500 bet money: 4862
+Total call: 13124
+roundbet: 13624
+End game
+
+------------end match
+
+pure cards: 34#8#23#26#10#47#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243099 money:9480
+player total call uid: 243099 money: 500 bet money: 9480
+Total call: 9980
+roundbet: 9980
+betInfo uid: 243081 money:3400
+player total call uid: 243081 money: 500 bet money: 3400
+Total call: 12880
+roundbet: 13380
+End game
+
+------------end match
+
+pure cards: 45#50#21#30#24#36#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243099 money:12710
+player total call uid: 243099 money: 500 bet money: 12710
+Total call: 13210
+roundbet: 13210
+betInfo uid: 243081 money:5000
+player total call uid: 243081 money: 500 bet money: 5000
+Total call: 17710
+roundbet: 18210
+End game
+
+------------end match
+
+pure cards: 34#4#16#18#23#45#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243099 money:17460
+player total call uid: 243099 money: 500 bet money: 17460
+Total call: 17960
+roundbet: 17960
+betInfo uid: 243081 money:0
+player total call uid: 243081 money: 500 bet money: 0
+Total call: 20210
+roundbet: 17960
+End game
+
+------------end match
+
+pure cards: 25#21#41#29#35#19#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:5362
+player total call uid: 243081 money: 500 bet money: 5362
+Total call: 5862
+roundbet: 5862
+betInfo uid: 243099 money:14710
+player total call uid: 243099 money: 500 bet money: 14710
+Total call: 20072
+roundbet: 20572
+End game
+
+------------end match
+
+pure cards: 26#19#42#20#10#18#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243099 money:19803
+player total call uid: 243099 money: 500 bet money: 19803
+Total call: 20303
+roundbet: 20303
+betInfo uid: 243081 money:2750
+player total call uid: 243081 money: 500 bet money: 2750
+Total call: 22553
+roundbet: 23053
+End game
+
+------------end match
+
+pure cards: 48#35#28#51#39#9#
+player : 243081 : bich#bich#bich#
+player : 243099 : bich#bich#bich#
+betInfo uid: 243081 money:5362
+player total call uid: 243081 money: 500 bet money: 5362
+Total call: 5862
+roundbet: 5862
+betInfo uid: 243099 money:17053
+player total call uid: 243099 money: 500 bet money: 17053
+Total call: 22415
+roundbet: 22915
+End game
+
+------------end match
+
+cancel player:popeye2
+Remove player 243081
+cancel player:popeye3
+

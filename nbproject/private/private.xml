@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/business/CancelBusiness.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/protocol/messages/NumberOnlineResponse.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/protocol/messages/EndMatchResponse.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/protocol/messages/ReconnectResponse.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/business/ReconnectBusiness.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/business/FastLoginBusiness.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/conf_vip/message-config.xml</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/data/SimpleTable.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/business/PlaySocialLoginBusiness.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/protocol/messages/json/ReconnectJSON.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/vn/game/common/sendCommon.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/business/LoginBusiness.java</file>
+            <file>file:/E:/Studio/AppChatWebSocket/SourceServer/GameServerVip/ServerChat/Source/allinone/protocol/messages/json/NumberOnlineJSON.java</file>
+        </group>
+    </open-files>
+</project-private>

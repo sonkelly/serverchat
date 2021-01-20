@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zones>
+    <zone id="4" name="Phom" capacity="12" players="12"></zone>	
+    <zone id="5" name="Tien len mien nam" capacity="12" players="12"></zone>        
+    <zone id="11" name="Bacay" capacity="12" players="12"></zone>	
+    <zone id="7" name="XiTo" capacity="4" players="4"></zone>	
+    <zone id="14" name="Binh" capacity="4" players="4"></zone>
+    <zone id="37" name="Sam" capacity="4" players="4"></zone>
+    <zone id="9" name="Lieng" capacity="9" players="9"></zone>
+    <zone id="13" name="NXiTo" capacity="4" players="4"></zone>
+    <zone id="15" name="Poker" capacity="9" players="9"></zone>
+    <zone id="54" name="TaiXiu" capacity="9" players="5000"></zone>
+	
+    <!-- <zone id="12" name="BauCuaTomCa" capacity="9" players="8"></zone> -->
+    <zone id="22" name="XocDiaAll" capacity="9" players="5000"></zone>
+    <zone id="52" name="CoTuong" capacity="2" players="2"></zone>
+    <zone id="8" name="Bida" capacity="5" players="2"></zone>
+    <!-- <zone id="80" name="BidaQuan" capacity="2" players="2"></zone> -->
+    <zone id="84" name="BidaFour" capacity="4" players="4"></zone>
+    <zone id="86" name="BidaPhom" capacity="10" players="4"></zone>
+    <zone id="44" name="Football" capacity="4" players="2"></zone>
+    <zone id="45" name="SoccerStart" capacity="4" players="2"></zone>
+    <zone id="46" name="HeadBall" capacity="4" players="2"></zone>
+    <zone id="47" name="Dragger" capacity="4" players="2"></zone>
+    <zone id="48" name="Shoots" capacity="4" players="2"></zone>
+    <zone id="49" name="MiniFootball" capacity="4" players="2"></zone>
+  
+</zones>

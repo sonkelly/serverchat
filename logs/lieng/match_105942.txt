@@ -1,0 +1,154 @@
+player: manhuni6 join
+pure cards: 48#14#23#24#44#2#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:1410
+player total call uid: 243039 money: 500 bet money: 1410
+Total call: 2410
+roundbet: 1910
+betInfo uid: 243047 money:1461
+player total call uid: 243047 money: 500 bet money: 1461
+Total call: 5281
+roundbet: 3371
+betInfo uid: 243039 money:1021
+player total call uid: 243039 money: 1910 bet money: 1021
+Total call: 6121
+roundbet: 4392
+betInfo uid: 243047 money:2117
+player total call uid: 243047 money: 3371 bet money: 2117
+Total call: 7750
+roundbet: 6509
+End game
+
+------------end match
+
+pure cards: 40#1#15#50#42#48#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243047 money:820
+player total call uid: 243047 money: 500 bet money: 820
+Total call: 1820
+roundbet: 1320
+betInfo uid: 243039 money:446
+player total call uid: 243039 money: 500 bet money: 446
+Total call: 3086
+roundbet: 1766
+betInfo uid: 243047 money:454
+player total call uid: 243047 money: 1320 bet money: 454
+Total call: 3986
+roundbet: 2220
+betInfo uid: 243039 money:135
+player total call uid: 243039 money: 1766 bet money: 135
+Total call: 4575
+roundbet: 2355
+betInfo uid: 243047 money:1000
+player total call uid: 243047 money: 2220 bet money: 1000
+Total call: 5710
+roundbet: 3355
+betInfo uid: 243039 money:427
+player total call uid: 243039 money: 2355 bet money: 427
+Total call: 7137
+roundbet: 3782
+betInfo uid: 243047 money:0
+player total call uid: 243047 money: 3355 bet money: 0
+Total call: 7564
+roundbet: 3782
+End game
+
+------------end match
+
+pure cards: 12#11#23#20#10#34#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243039 money:-1
+
+------------end match
+
+pure cards: 22#5#24#14#32#33#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 33#31#37#21#2#23#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:3400
+player total call uid: 243039 money: 500 bet money: 3400
+Total call: 4400
+roundbet: 3900
+betInfo uid: 243047 money:400
+player total call uid: 243047 money: 500 bet money: 400
+Total call: 7705
+roundbet: 4300
+betInfo uid: 243039 money:500
+player total call uid: 243039 money: 3900 bet money: 500
+Total call: 8605
+roundbet: 4800
+End game
+
+------------end match
+
+pure cards: 5#39#46#33#30#2#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:1200
+player total call uid: 243039 money: 500 bet money: 1200
+Total call: 2200
+roundbet: 1700
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 12#26#13#11#14#21#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243039 money:-1
+
+------------end match
+
+pure cards: 36#48#15#31#26#25#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243047 money:300
+player total call uid: 243047 money: 500 bet money: 300
+Total call: 1300
+roundbet: 800
+betInfo uid: 243039 money:1200
+player total call uid: 243039 money: 500 bet money: 1200
+Total call: 2800
+roundbet: 2000
+betInfo uid: 243047 money:200
+player total call uid: 243047 money: 800 bet money: 200
+Total call: 4200
+roundbet: 2200
+betInfo uid: 243039 money:1100
+player total call uid: 243039 money: 2000 bet money: 1100
+Total call: 5500
+roundbet: 3300
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 34#33#35#41#44#7#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243039 money:-1
+
+------------end match
+
+cancel player:manhuni6
+
+cancel player:manhuni6
+

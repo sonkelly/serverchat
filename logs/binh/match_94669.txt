@@ -1,0 +1,147 @@
+Tao ban: (243099)popeye3
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  7bich 4co 4bich 12bich 5co 7co 9tep 2tep 10tep 7tep 13co 6ro 8co
+Chia bai: (243081)popeye2 poker:  4ro 8ro 3tep 8bich 11ro 3co 1co 13ro 5ro 3bich 4tep 12ro 1ro
+Xep xong: (243081)popeye2 Poker: 30#34#3#21#37#42#40#39#31#16#4#38#27 4ro 8ro 3tep 8bich 11ro 3co 1co 13ro 5ro 3bich 4tep 12ro 1ro
+Huy xep bai: (243081)popeye2
+Xep xong: (243081)popeye2 Poker: 42#40#3#27#16#38#34#39#31#37#4#30#21 3co 1co 3tep 1ro 3bich 12ro 8ro 13ro 5ro 11ro 4tep 4ro 8bich
+Huy xep bai: (243081)popeye2
+Xep xong: (243081)popeye2 Poker: 42#40#3#27#16#38#34#39#31#37#4#30#21 3co 1co 3tep 1ro 3bich 12ro 8ro 13ro 5ro 11ro 4tep 4ro 8bich
+Xep xong: (243099)popeye3 Poker: 20#43#17#46#7#25#9#2#10#44#52#32#47 7bich 4co 4bich 7co 7tep 12bich 9tep 2tep 10tep 5co 13co 6ro 8co
+ SO CHI 
+Binh Type: (243099)popeye3 : Binh lung 
+Binh Type: (243081)popeye2 : So chi 
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 3000
+ID van choi matchID: 94669matchNum:1
+Tinh tien: (243081)popeye2 : 3000 ip: /192.168.2.111:50334
+ID van choi matchID: 94669matchNum:1
+
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  11ro 8co 8tep 2ro 7tep 4bich 5ro 1ro 7ro 9co 10bich 5bich 13tep
+Chia bai: (243081)popeye2 poker:  10tep 2bich 12co 3co 9ro 10ro 9bich 8ro 6co 11bich 2co 1co 2tep
+Xep xong: (243099)popeye3 Poker: 37#47#8#28#7#17#31#27#33#48#23#18#13 11ro 8co 8tep 2ro 7tep 4bich 5ro 1ro 7ro 9co 10bich 5bich 13tep
+Xep xong: (243081)popeye2 Poker: 10#15#51#42#35#36#22#34#45#24#41#40#2 10tep 2bich 12co 3co 9ro 10ro 9bich 8ro 6co 11bich 2co 1co 2tep
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : Binh lung 
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 3000 ip: /192.168.2.111:50324
+ID van choi matchID: 94669matchNum:2
+Tinh tien: (243081)popeye2 : 3000
+ID van choi matchID: 94669matchNum:2
+
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  2tep 3tep 11bich 1ro 11co 9bich 1bich 3co 13co 6tep 6bich 10tep 10ro
+Chia bai: (243081)popeye2 poker:  13tep 9ro 8ro 5ro 7ro 5bich 12co 8bich 1tep 4ro 3bich 3ro 7bich
+Xep xong: (243099)popeye3 Poker: 14#27#42#36#6#22#10#24#19#50#52#2#3 1bich 1ro 3co 10ro 6tep 9bich 10tep 11bich 6bich 11co 13co 2tep 3tep
+Xep xong: (243081)popeye2 Poker: 30#35#34#31#33#18#16#21#20#1#51#29#13 4ro 9ro 8ro 5ro 7ro 5bich 3bich 8bich 7bich 1tep 12co 3ro 13tep
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : So chi 
+ SO CHI 1
+TINH DIEM: (243099)popeye3 CHI 1 Type : 2
+TINH DIEM: (243081)popeye2 CHI 1 Type : 7
+ SO CHI 2
+TINH DIEM: (243099)popeye3 CHI 2 Type : 2
+TINH DIEM: (243081)popeye2 CHI 2 Type : 1
+ SO CHI 3
+TINH DIEM: (243099)popeye3 CHI 3 Type : 1
+TINH DIEM: (243081)popeye2 CHI 3 Type : 1
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 500
+ID van choi matchID: 94669matchNum:3
+Tinh tien: (243081)popeye2 : 500 ip: /192.168.2.111:50334
+ID van choi matchID: 94669matchNum:3
+
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  11co 10ro 6ro 2tep 5bich 5tep 11bich 11ro 11tep 3co 6co 8ro 4bich
+Chia bai: (243081)popeye2 poker:  9co 4co 9tep 2ro 4ro 10bich 7co 1ro 12tep 12bich 8bich 3ro 10co
+Xep xong: (243099)popeye3 Poker: 50#24#37#11#5#2#42#17#18#32#45#34#36 11co 11bich 11ro 11tep 5tep 2tep 3co 4bich 5bich 6ro 6co 8ro 10ro
+Xep xong: (243081)popeye2 Poker: 48#46#9#12#25#23#43#49#28#30#21#29#27 9co 7co 9tep 12tep 12bich 10bich 4co 10co 2ro 4ro 8bich 3ro 1ro
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : So chi 
+ SO CHI 1
+TINH DIEM: (243099)popeye3 CHI 1 Type : 9
+TINH DIEM: (243081)popeye2 CHI 1 Type : 3
+ SO CHI 2
+TINH DIEM: (243099)popeye3 CHI 2 Type : 5
+TINH DIEM: (243081)popeye2 CHI 2 Type : 3
+ SO CHI 3
+TINH DIEM: (243099)popeye3 CHI 3 Type : 1
+TINH DIEM: (243081)popeye2 CHI 3 Type : 1
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 4000 ip: /192.168.2.111:50324
+ID van choi matchID: 94669matchNum:4
+Tinh tien: (243081)popeye2 : 4000
+ID van choi matchID: 94669matchNum:4
+
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  5co 8co 1tep 1co 9bich 12bich 9ro 8bich 3co 4co 1bich 6ro 10tep
+Chia bai: (243081)popeye2 poker:  13ro 11tep 4bich 5tep 9co 6bich 4ro 5ro 12ro 7bich 10bich 13bich 12co
+Xep xong: (243081)popeye2 Poker: 39#26#51#38#19#17#30#31#5#20#23#11#48 13ro 13bich 12co 12ro 6bich 4bich 4ro 5ro 5tep 7bich 10bich 11tep 9co
+Xep xong: (243099)popeye3 Poker: 14#35#1#40#22#25#47#21#42#43#44#32#10 1bich 9ro 1tep 1co 9bich 12bich 8co 8bich 3co 4co 5co 6ro 10tep
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : So chi 
+ SO CHI 1
+TINH DIEM: (243099)popeye3 CHI 1 Type : 8
+TINH DIEM: (243081)popeye2 CHI 1 Type : 3
+ SO CHI 2
+TINH DIEM: (243099)popeye3 CHI 2 Type : 2
+TINH DIEM: (243081)popeye2 CHI 2 Type : 3
+ SO CHI 3
+TINH DIEM: (243099)popeye3 CHI 3 Type : 1
+TINH DIEM: (243081)popeye2 CHI 3 Type : 1
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 500
+ID van choi matchID: 94669matchNum:5
+Tinh tien: (243081)popeye2 : 500 ip: /192.168.2.111:50334
+ID van choi matchID: 94669matchNum:5
+
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  7co 8bich 5co 11ro 4tep 13co 11tep 4bich 1tep 1ro 3co 4co 12ro
+Chia bai: (243081)popeye2 poker:  13ro 9ro 12bich 7tep 12tep 6bich 1bich 9bich 8co 2co 13tep 6ro 5tep
+Xep xong: (243099)popeye3 Poker: 4#11#37#1#27#42#43#44#38#17#46#21#52 4tep 11tep 11ro 1tep 1ro 3co 4co 5co 12ro 4bich 7co 8bich 13co
+Xep xong: (243081)popeye2 Poker: 39#13#25#41#12#19#5#22#47#7#35#32#14 13ro 13tep 12bich 2co 12tep 6bich 5tep 9bich 8co 7tep 9ro 6ro 1bich
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : Binh lung 
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 3000 ip: /192.168.2.111:50324
+ID van choi matchID: 94669matchNum:6
+Tinh tien: (243081)popeye2 : 3000
+ID van choi matchID: 94669matchNum:6
+
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  12ro 5bich 4ro 3ro 11tep 11bich 9co 10co 11co 9ro 5tep 2bich 10ro
+Chia bai: (243081)popeye2 poker:  7tep 4tep 9tep 1ro 7co 8bich 8co 5ro 7bich 3bich 2co 5co 4co
+Xep xong: (243081)popeye2 Poker: 21#47#20#7#46#41#44#4#31#43#27#16#9 8bich 8co 7bich 7tep 7co 2co 5co 4tep 5ro 4co 1ro 3bich 9tep
+Xep xong: (243099)popeye3 Poker: 36#49#24#50#11#30#48#35#5#18#29#15#38 10ro 10co 11bich 11co 11tep 4ro 9co 9ro 5tep 5bich 3ro 2bich 12ro
+ SO CHI 
+Binh Type: (243099)popeye3 : So chi 
+Binh Type: (243081)popeye2 : So chi 
+ SO CHI 1
+TINH DIEM: (243099)popeye3 CHI 1 Type : 8
+TINH DIEM: (243081)popeye2 CHI 1 Type : 8
+ SO CHI 2
+TINH DIEM: (243099)popeye3 CHI 2 Type : 3
+TINH DIEM: (243081)popeye2 CHI 2 Type : 3
+ SO CHI 3
+TINH DIEM: (243099)popeye3 CHI 3 Type : 1
+TINH DIEM: (243081)popeye2 CHI 3 Type : 1
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : 500 ip: /192.168.2.111:50324
+ID van choi matchID: 94669matchNum:7
+Tinh tien: (243081)popeye2 : 500
+ID van choi matchID: 94669matchNum:7
+
+

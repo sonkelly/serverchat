@@ -1,0 +1,228 @@
+Tao ban: (243077)popeye
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243077)popeye poker:  3ro 4ro 5co 7tep 7bich 8bich 10bich 10ro 11bich 12tep 13ro 1bich 1ro
+Chia bai: (243081)popeye2 poker:  4tep 6bich 7co 9bich 9tep 11tep 12ro 12co 12bich 13tep 1co 2bich 2co
+Danh: (243077)popeye 29#30#44 [ 3ro 4ro 5co]
+Danh: (243081)popeye2 11#25#13 [ 11tep 12bich 13tep]
+Danh: (243077)popeye 24#12#39 [ 11bich 12tep 13ro]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 20#7 [ 7bich 7tep]
+Danh: (243081)popeye2 9#22 [ 9tep 9bich]
+Danh: (243077)popeye 23#36 [ 10bich 10ro]
+Danh: (243081)popeye2 51#38 [ 12co 12ro]
+Danh: (243077)popeye 14#27 [ 1bich 1ro]
+Danh: (243081)popeye2 15#41 [ 2bich 2co]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 40 [ 1co]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 46 [ 7co]
+Danh: (243077)popeye 21 [ 8bich]
+
+ Ket thuc van 
+Tinh tien: (243081)popeye2 : -1000 ip: /192.168.2.111:60272
+ID van choi matchID: 91539matchNum:1
+Tinh tien: (243077)popeye : 950
+ID van choi matchID: 91539matchNum:1
+
+Bat dau van moi.......
+Bat dau van moi.......
+Chia bai: (243077)popeye poker:  3ro 4ro 4bich 5tep 6ro 6tep 8tep 9bich 10ro 10tep 12bich 1ro 1bich
+Chia bai: (243081)popeye2 poker:  3bich 6bich 7co 8co 9tep 10bich 11tep 12co 12ro 13tep 1co 1tep 2co
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 29 [ 3ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 30 [ 4ro]
+Danh: (243081)popeye2 51#38 [ 12co 12ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 17 [ 4bich]
+Danh: (243081)popeye2 41 [ 2co]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 19#46#47#9#23#11#51#13#1 [ 6bich 7co 8co 9tep 10bich 11tep 12co 13tep 1tep]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 16 [ 3bich]
+Danh: (243077)popeye 5 [ 5tep]
+Danh: (243081)popeye2 38 [ 12ro]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 40 [ 1co]
+ Ket thuc van 
+Tinh tien: (243077)popeye : -4500 ip: /192.168.2.111:60277
+ID van choi matchID: 91539matchNum:2
+Tinh tien: (243081)popeye2 : 4275
+ID van choi matchID: 91539matchNum:2
+
+Bat dau van moi.......
+Bat dau van moi.......
+Chia bai: (243077)popeye poker:  3co 4co 5tep 6bich 6co 6tep 9tep 10tep 12co 12tep 13tep 1tep 2ro
+Chia bai: (243081)popeye2 poker:  3bich 3tep 5bich 8co 9co 9ro 11tep 13bich 13co 1co 1ro 2co 2tep
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 16 [ 3bich]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 3 [ 3tep]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 18 [ 5bich]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 47 [ 8co]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 48 [ 9co]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 35 [ 9ro]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 26#52 [ 13bich 13co]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 40#27 [ 1co 1ro]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 41#2 [ 2co 2tep]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 11 [ 11tep]
+ Ket thuc van 
+Tinh tien: (243077)popeye : -15000 ip: /192.168.2.111:60277
+ID van choi matchID: 91539matchNum:3
+Tinh tien: (243081)popeye2 : 14250
+ID van choi matchID: 91539matchNum:3
+
+Bat dau van moi.......
+Chia bai: (243077)popeye poker:  4co 6ro 6tep 7ro 7tep 8tep 8co 9ro 11co 12co 13co 1co 2ro
+Chia bai: (243081)popeye2 poker:  4tep 4bich 8ro 9bich 9co 11tep 12ro 12tep 13tep 13bich 13ro 2tep 2bich
+Danh: (243081)popeye2 4#17 [ 4tep 4bich]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 22#48 [ 9bich 9co]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 38#12 [ 12ro 12tep]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 39#13#26 [ 13ro 13tep 13bich]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 11 [ 11tep]
+Danh: (243077)popeye 40 [ 1co]
+Danh: (243081)popeye2 15 [ 2bich]
+Danh: (243077)popeye 32#6#33#7#8#47 [ 6ro 6tep 7ro 7tep 8tep 8co]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 50#51#52 [ 11co 12co 13co]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 43 [ 4co]
+Danh: (243081)popeye2 34 [ 8ro]
+Danh: (243077)popeye 28 [ 2ro]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 35 [ 9ro]
+ Ket thuc van 
+Tinh tien: (243081)popeye2 : -2500 ip: /192.168.2.111:60272
+ID van choi matchID: 91539matchNum:4
+Tinh tien: (243077)popeye : 2375
+ID van choi matchID: 91539matchNum:4
+
+Roi khoi ban: (243081)popeye2
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243077)popeye poker:  3tep 5tep 7co 8bich 8tep 9tep 9bich 10tep 10co 12co 13ro 13co 1ro
+Chia bai: (243081)popeye2 poker:  3bich 4ro 6tep 7ro 8ro 11ro 11bich 11tep 12bich 13tep 1tep 1bich 2bich
+Danh: (243077)popeye Bo luot 
+Danh: (243077)popeye 3 [ 3tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 5 [ 5tep]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 49#10 [ 10co 10tep]
+Danh: (243081)popeye2 37#11 [ 11ro 11tep]
+Danh: (243077)popeye 52#39 [ 13co 13ro]
+Danh: (243081)popeye2 1#14 [ 1tep 1bich]
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 15#16#30#6#33#34 [ 2bich 3bich 4ro 6tep 7ro 8ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 16 [ 3bich]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 Bo luot 
+Danh: (243081)popeye2 30 [ 4ro]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 6#33#34 [ 6tep 7ro 8ro]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 24#25#13 [ 11bich 12bich 13tep]
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye Bo luot 
+Danh: (243081)popeye2 15 [ 2bich]
+ Ket thuc van 
+Tinh tien: (243077)popeye : -3500 ip: /192.168.2.111:60277
+ID van choi matchID: 91539matchNum:5
+Tinh tien: (243081)popeye2 : 3325
+ID van choi matchID: 91539matchNum:5
+
+Roi khoi ban: Vao ban: (243077)popeye
+Bat dau van moi.......
+Chia bai: (243081)popeye2 poker:  3bich 4ro 4co 6ro 7ro 7co 8bich 8ro 9bich 10tep 11ro 1co 2ro
+Chia bai: (243077)popeye poker:  3co 3tep 4bich 6bich 8co 9ro 11bich 11tep 13co 13ro 13tep 1tep 1bich
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 42 [ 3co]
+Danh: (243081)popeye2 30#43 [ 4ro 4co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh: (243077)popeye 3 [ 3tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 17 [ 4bich]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 19 [ 6bich]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 47 [ 8co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 35 [ 9ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 24 [ 11bich]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 11 [ 11tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 52 [ 13co]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 39 [ 13ro]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 13 [ 13tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 1 [ 1tep]
+Danh tu dong: (243081)popeye2
+Danh: (243081)popeye2 Bo luot 
+Danh tu dong: (243077)popeye
+Danh: (243077)popeye 14 [ 1bich]
+ Ket thuc van 
+Tinh tien: (243081)popeye2 : -15000 ip: /192.168.2.111:60272
+ID van choi matchID: 91539matchNum:6
+Tinh tien: (243077)popeye : 14250
+ID van choi matchID: 91539matchNum:6
+
+

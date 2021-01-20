@@ -1,0 +1,18 @@
+Tao ban: (242921)phong01hn
+Vao ban: (242925)phong02hn
+Bat dau van moi.......
+Chia bai: (242921)phong01hn poker: 16#43#31#46#8#35#37#11#38#39 [ 3bich 4co 5ro 7co 8tep 9ro 11ro 11tep 12ro 13ro]
+Chia bai: (242925)phong02hn poker: 48#22#23#12#52#26#13#1#14#28 [ 9co 9bich 10bich 12tep 13co 13bich 13tep 1tep 1bich 2ro]
+Bao Sam: (242925)phong02hn
+Danh: (242925)phong02hn 22#48 [ 9bich 9co]
+Danh: (242921)phong01hn 37#11 [ 11ro 11tep]
+ Ket thuc van 
+Tinh tien: (242925)phong02hn : -15000 ip: /192.168.2.50:60557
+ID van choi matchID: 105876matchNum:1
+Tinh tien: (242921)phong01hn : 14250
+ID van choi matchID: 105876matchNum:1
+
+
+Thoat khoi ban: (242921)dat_ten_met_vl_3
+Thoat khoi ban: (242925)testketban
+

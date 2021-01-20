@@ -1,0 +1,19 @@
+player: manhuni5 join
+pure cards: 21#7#27#20#22#19#
+player : 242927 : bich#bich#bich#
+player : 243039 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 242927 money:-1
+
+------------end match
+
+pure cards: 12#52#15#19#25#18#
+player : 242927 : bich#bich#bich#
+player : 243039 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243039 money:-1
+
+------------end match
+

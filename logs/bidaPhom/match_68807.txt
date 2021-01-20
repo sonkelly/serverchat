@@ -1,0 +1,8 @@
+player: popeye1 join
+player: samsam join
+player: samsam2 join
+cancel player:Popeye321
+cancel player:popeye123
+cancel player:sammmm
+cancel player:sammmmm
+

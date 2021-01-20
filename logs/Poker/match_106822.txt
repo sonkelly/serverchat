@@ -1,0 +1,156 @@
+player: popeye3 join: 25000
+pure cards: 35#2#7#14#
+comunity cards: 10#11#4#44#16#
+player : 0 : 9ro#2tep
+player : 1 : 7tep#1bich
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243081 money:-1
+do timeout
+
+------------end match
+
+pure cards: 12#21#36#26#
+comunity cards: 35#4#41#11#20#
+player : 0 : 12tep#8bich
+player : 1 : 10ro#13bich
+do timeout
+betInfo uid: 243099 money:0
+do timeout
+betInfo uid: 243081 money:5000
+betInfo uid: 243099 money:24500
+do timeout
+
+------------end match
+
+pure cards: 13#8#9#29#
+comunity cards: 14#15#3#51#42#
+player : 0 : 13tep#8tep
+player : 1 : 9tep#3ro
+do timeout
+betInfo uid: 243099 money:29750
+betInfo uid: 243081 money:16501
+do timeout
+
+------------end match
+
+pure cards: 29#26#38#48#
+comunity cards: 31#30#10#44#6#
+player : 0 : 3ro#13bich
+player : 1 : 12ro#9co
+do timeout
+betInfo uid: 243099 money:45425
+betInfo uid: 243081 money:25000
+do timeout
+
+------------end match
+
+pure cards: 29#6#25#1#
+comunity cards: 26#30#5#36#47#
+player : 0 : 3ro#6tep
+player : 1 : 12bich#1tep
+do timeout
+betInfo uid: 243081 money:48750
+betInfo uid: 243099 money:20425
+do timeout
+
+------------end match
+
+pure cards: 22#27#8#28#
+comunity cards: 32#45#39#25#14#
+player : 0 : 9bich#1ro
+player : 1 : 8tep#2ro
+do timeout
+betInfo uid: 243099 money:39828
+betInfo uid: 243081 money:28325
+do timeout
+
+------------end match
+
+pure cards: 32#46#26#34#
+comunity cards: 31#5#17#29#16#
+player : 0 : 6ro#7co
+player : 1 : 13bich#8ro
+do timeout
+betInfo uid: 243081 money:55233
+betInfo uid: 243099 money:11503
+do timeout
+
+------------end match
+
+pure cards: 4#32#50#22#
+comunity cards: 42#25#48#51#34#
+player : 0 : 4tep#6ro
+player : 1 : 11co#9bich
+do timeout
+betInfo uid: 243081 money:66160
+betInfo uid: 243099 money:0
+do timeout
+
+------------end match
+
+pure cards: 48#14#11#22#
+comunity cards: 47#18#39#5#40#
+player : 0 : 9co#1bich
+player : 1 : 11tep#9bich
+do timeout
+betInfo uid: 243099 money:11736
+betInfo uid: 243081 money:0
+do timeout
+betInfo uid: 243081 money:28999
+betInfo uid: 243099 money:37014
+do timeout
+
+------------end match
+
+pure cards: 21#6#29#2#
+comunity cards: 48#9#44#11#4#
+player : 0 : 8bich#6tep
+player : 1 : 3ro#2tep
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243081 money:-1
+do timeout
+
+------------end match
+
+pure cards: 48#29#22#50#
+comunity cards: 35#51#8#24#11#
+player : 0 : 9co#3ro
+player : 1 : 9bich#11co
+do timeout
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243099 money:-1
+do timeout
+
+------------end match
+
+pure cards: 51#24#27#15#
+comunity cards: 22#38#28#29#13#
+player : 0 : 12co#11bich
+player : 1 : 1ro#2bich
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243081 money:-1
+do timeout
+
+------------end match
+
+pure cards: 32#15#16#24#
+comunity cards: 40#43#37#49#13#
+player : 0 : 6ro#2bich
+player : 1 : 3bich#11bich
+do timeout
+betInfo uid: 243099 money:0
+do timeout
+betInfo uid: 243081 money:80262
+betInfo uid: 243099 money:0
+do timeout
+
+
+------------end match
+

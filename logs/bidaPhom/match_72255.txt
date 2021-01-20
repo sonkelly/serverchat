@@ -1,0 +1,10 @@
+player: popeye3 join
+player: popeye2 join
+
+
+Danh tu dong: (243081)popeye2
+Danh tu dong: (243081)popeye2
+cancel player:Popeye3
+cancel player:popeye123
+cancel player:Popeye321
+

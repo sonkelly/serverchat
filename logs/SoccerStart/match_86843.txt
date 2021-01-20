@@ -1,0 +1,19 @@
+player: manhuni2 join
+cancel player:manhuni1s
+Remove player 95395
+player: manhuni1 join
+
+Remove player 95395
+player: manhuni1 join
+Danh tu dong: (95396)manhuni2
+Danh tu dong: (95395)manhuni1
+Danh tu dong: (95396)manhuni2
+Danh tu dong: (95395)manhuni1
+Danh tu dong: (95396)manhuni2
+Danh tu dong: (95395)manhuni1
+Danh tu dong: (95396)manhuni2
+Danh tu dong: (95395)manhuni1
+Remove player 95396
+Remove player 95395
+
+

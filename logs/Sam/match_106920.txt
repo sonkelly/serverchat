@@ -1,0 +1,56 @@
+Tao ban: (243081)popeye2
+Bat dau van moi.......
+Bat dau van moi.......
+Vao ban: (243099)popeye3
+Bat dau van moi.......
+Chia bai: (243081)popeye2 poker: 31#5#44#33#34#11#50#24#13#28 [ 5ro 5tep 5co 7ro 8ro 11tep 11co 11bich 13tep 2ro]
+Chia bai: (243099)popeye3 poker: 17#6#21#9#10#36#23#38#26#52 [ 4bich 6tep 8bich 9tep 10tep 10ro 10bich 12ro 13bich 13co]
+Danh: (243081)popeye2 31#5#44 [ 5ro 5tep 5co]
+Danh: (243099)popeye3 10#36#23 [ 10tep 10ro 10bich]
+Danh: (243081)popeye2 11#50#24 [ 11tep 11co 11bich]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 33 [ 7ro]
+Danh: (243099)popeye3 21 [ 8bich]
+Danh: (243081)popeye2 13 [ 13tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 28 [ 2ro]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 34 [ 8ro]
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : -3000 ip: /192.168.2.111:57627
+ID van choi matchID: 106920matchNum:1
+Tinh tien: (243081)popeye2 : 2850
+ID van choi matchID: 106920matchNum:1
+
+
+Bat dau van moi.......
+Chia bai: (243081)popeye2 poker: 43#21#10#24#50#25#14#1#28#15 [ 4co 8bich 10tep 11bich 11co 12bich 1bich 1tep 2ro 2bich]
+Chia bai: (243099)popeye3 poker: 4#30#44#18#32#7#9#38#12#41 [ 4tep 4ro 5co 5bich 6ro 7tep 9tep 12ro 12tep 2co]
+Danh: (243081)popeye2 43 [ 4co]
+Danh: (243099)popeye3 9 [ 9tep]
+Danh: (243081)popeye2 1 [ 1tep]
+Danh: (243099)popeye3 41 [ 2co]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243099)popeye3 30#4 [ 4ro 4tep]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243099)popeye3 18#32#7 [ 5bich 6ro 7tep]
+Danh: (243081)popeye2 10#24#25 [ 10tep 11bich 12bich]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 21 [ 8bich]
+Danh: (243099)popeye3 38 [ 12ro]
+Danh: (243081)popeye2 14 [ 1bich]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 15#28 [ 2bich 2ro]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 50 [ 11co]
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : -1000 ip: /192.168.2.111:57627
+ID van choi matchID: 106920matchNum:2
+Tinh tien: (243081)popeye2 : 950
+ID van choi matchID: 106920matchNum:2
+
+
+Bat dau van moi.......
+Thoat khoi ban: (243099)Popeye3
+Thoat khoi ban: (243081)Popeye321
+

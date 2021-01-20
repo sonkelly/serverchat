@@ -1,0 +1,10 @@
+player: popeye join
+cancel player:popeyee
+Danh tu dong: (243077)popeye
+
+cancel player:hoaniam
+Danh tu dong: (122)zeptest10
+
+Remove player 122
+player: zeptest10 join
+

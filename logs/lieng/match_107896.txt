@@ -1,0 +1,114 @@
+player: popeye2 join
+pure cards: 31#1#23#34#4#47#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243078 money:-1
+
+------------end match
+
+pure cards: 25#48#10#29#24#17#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243081 money:-1
+
+------------end match
+
+pure cards: 1#20#3#48#40#37#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243078 money:-1
+
+------------end match
+
+pure cards: 17#19#52#21#15#48#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+betInfo uid: 243081 money:0
+player total call uid: 243081 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+betInfo uid: 243078 money:0
+player total call uid: 243078 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+End game
+
+------------end match
+
+pure cards: 20#40#18#17#48#28#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243081 money:-1
+
+------------end match
+
+pure cards: 32#6#50#31#41#4#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+betInfo uid: 243078 money:0
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243078 money:-1
+player total call uid: 243078 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+
+------------end match
+
+
+------------end match
+
+player: popeye1 join
+pure cards: 27#45#41#7#48#39#
+player : 243081 : bich#bich#bich#
+player : 243078 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243081 money:-1
+
+------------end match
+
+player: popeye2 join
+pure cards: 15#10#48#11#40#34#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243078 money:-1
+
+------------end match
+
+pure cards: 38#36#15#5#32#35#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243081 money:-1
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243081 money:-1
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243081 money:-1
+betInfo uid: 243081 money:0
+player total call uid: 243081 money: 500 bet money: 0
+Bạn đã úp bỏ bải rồi!
+Total call: 1000
+roundbet: 500
+Bạn đã úp bỏ bải rồi!
+
+------------end match
+
+
+------------end match
+
+cancel player:popeye1
+

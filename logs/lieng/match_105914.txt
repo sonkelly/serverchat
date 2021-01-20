@@ -1,0 +1,165 @@
+player: manhuni6 join
+pure cards: 17#32#47#11#33#16#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:1522
+player total call uid: 243039 money: 500 bet money: 1522
+Total call: 2522
+roundbet: 2022
+betInfo uid: 243047 money:955
+player total call uid: 243047 money: 500 bet money: 955
+Total call: 4999
+roundbet: 2977
+betInfo uid: 243039 money:347
+player total call uid: 243039 money: 2022 bet money: 347
+Total call: 5727
+roundbet: 3324
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 13#52#6#40#20#21#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:-1
+
+------------end match
+
+pure cards: 33#37#40#13#3#32#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 22#7#19#9#2#28#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:5337
+player total call uid: 243039 money: 500 bet money: 5337
+Total call: 5837
+roundbet: 5837
+betInfo uid: 243047 money:2225
+player total call uid: 243047 money: 500 bet money: 2225
+Total call: 7562
+roundbet: 8062
+End game
+
+------------end match
+
+pure cards: 4#16#24#38#49#33#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243047 money:226
+player total call uid: 243047 money: 500 bet money: 226
+Total call: 1226
+roundbet: 726
+betInfo uid: 243039 money:358
+player total call uid: 243039 money: 500 bet money: 358
+Total call: 1810
+roundbet: 1084
+betInfo uid: 243047 money:0
+player total call uid: 243047 money: 726 bet money: 0
+Total call: 2168
+roundbet: 1084
+End game
+
+------------end match
+
+pure cards: 26#31#21#30#50#28#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 17#39#41#27#21#16#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243039 money:-1
+
+------------end match
+
+pure cards: 24#48#45#41#27#3#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243047 money:-1
+
+------------end match
+
+player: manhuni6 join
+pure cards: 17#36#5#24#26#40#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:1040
+player total call uid: 243039 money: 500 bet money: 1040
+Total call: 2040
+roundbet: 1540
+betInfo uid: 243047 money:370
+player total call uid: 243047 money: 500 bet money: 370
+Total call: 3450
+roundbet: 1910
+betInfo uid: 243039 money:598
+player total call uid: 243039 money: 1540 bet money: 598
+Total call: 4388
+roundbet: 2508
+betInfo uid: 243047 money:3475
+player total call uid: 243047 money: 1910 bet money: 3475
+Total call: 7478
+roundbet: 5983
+End game
+
+------------end match
+
+pure cards: 50#16#17#46#34#7#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:2334
+player total call uid: 243039 money: 500 bet money: 2334
+Total call: 3334
+roundbet: 2834
+betInfo uid: 243047 money:881
+player total call uid: 243047 money: 500 bet money: 881
+Total call: 5356
+roundbet: 3715
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243039 money:-1
+
+------------end match
+
+player: manhuni6 join
+pure cards: 18#35#26#32#50#25#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243047 money:-1
+
+------------end match
+
+pure cards: 25#33#23#7#19#21#
+player : 243039 : bich#bich#bich#
+player : 243047 : bich#bich#bich#
+betInfo uid: 243039 money:755
+player total call uid: 243039 money: 500 bet money: 755
+Total call: 1755
+roundbet: 1255
+betInfo uid: 243047 money:-1
+
+------------end match
+
+cancel player:manhuni6
+Remove player 243047
+cancel player:manhuni5
+
+cancel player:manhuni5
+

@@ -1,0 +1,36 @@
+player: zeptest1 join
+cancel player:2142355
+Remove player 103
+player: manhuni2 join
+player: zeptest1 join
+cancel player:MANHUNI2
+Remove player 95396
+player: manhuni2 join
+cancel player:MANHUNI2
+Remove player 95396
+player: manhuni2 join
+
+
+Danh tu dong: (242925)phong02hn
+cancel player:2142355
+Danh tu dong: (242925)phong02hn
+Danh tu dong: (103)zeptest1
+Danh tu dong: (95396)manhuni2
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+Danh tu dong: (103)zeptest1
+cancel player:testketban
+cancel player:MANHUNI2
+

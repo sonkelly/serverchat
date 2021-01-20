@@ -1,0 +1,37 @@
+Tao ban: (242921)phong01hn
+Vao ban: (242941)phong03hn
+Bat dau van moi.......
+Chia bai: (242921)phong01hn poker:  3tep 3bich 4ro 6ro 6bich 6tep 9ro 11ro 11bich 12ro 13tep 1ro 1co
+Chia bai: (242941)phong03hn poker:  4bich 4tep 5bich 6co 7ro 7tep 8ro 9tep 9bich 10tep 12co 13bich 2bich
+Danh: (242941)phong03hn Bo luot 
+Danh: (242941)phong03hn 17#4 [ 4bich 4tep]
+Danh: (242921)phong01hn 37#24 [ 11ro 11bich]
+Danh: (242941)phong03hn Bo luot 
+Danh: (242921)phong01hn 3#16 [ 3tep 3bich]
+Danh: (242941)phong03hn Bo luot 
+Danh: (242921)phong01hn 30 [ 4ro]
+Danh: (242941)phong03hn 22 [ 9bich]
+Danh: (242921)phong01hn 27 [ 1ro]
+Danh: (242941)phong03hn 15 [ 2bich]
+Danh: (242921)phong01hn Bo luot 
+Danh: (242941)phong03hn 18#45#33#34#9#10 [ 5bich 6co 7ro 8ro 9tep 10tep]
+Danh: (242921)phong01hn Bo luot 
+Danh: (242941)phong03hn 7 [ 7tep]
+Danh: (242921)phong01hn 35 [ 9ro]
+Danh: (242941)phong03hn 51 [ 12co]
+Danh: (242921)phong01hn 40 [ 1co]
+Danh: (242941)phong03hn Bo luot 
+Danh: (242921)phong01hn 32#19#6 [ 6ro 6bich 6tep]
+Danh: (242941)phong03hn Bo luot 
+Danh: (242921)phong01hn 13 [ 13tep]
+Danh: (242941)phong03hn Bo luot 
+Danh: (242921)phong01hn 38 [ 12ro]
+ Ket thuc van 
+Tinh tien: (242941)phong03hn : -500 ip: /192.168.2.50:63980
+ID van choi matchID: 86578matchNum:1
+Tinh tien: (242921)phong01hn : 475
+ID van choi matchID: 86578matchNum:1
+
+Roi khoi ban: (242921)phong01hn
+Roi khoi ban: (242941)phong03hn
+

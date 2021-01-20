@@ -1,0 +1,127 @@
+Tao ban: (243081)popeye2
+Vao ban: (243078)popeye1
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 5 Tep;8 Tep;4 Co
+Chia bai: (243078)popeye1 poker: 8 Pic;2 Tep;3 Co
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 7
+TINH DIEM: (243078)popeye1 : 3
+Tinh tien: (243078)popeye1 : -500
+Tinh tien: (243081)popeye2 : 475
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 9 Pic;4 Tep;2 Pic
+Chia bai: (243078)popeye1 poker: 3 Tep;7 Tep;4 Ro
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 5
+TINH DIEM: (243078)popeye1 : 4
+Tinh tien: (243078)popeye1 : -500
+Tinh tien: (243081)popeye2 : 475
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 3 Tep;3 Pic;5 Ro
+Chia bai: (243078)popeye1 poker: 2 Co;4 Tep;4 Co
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 1
+TINH DIEM: (243078)popeye1 : 10
+Tinh tien: (243078)popeye1 : 950.0
+Tinh tien: (243081)popeye2 : -1000
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 500
+Chia bai: (243081)popeye2 poker: 1 Tep;7 Pic;4 Ro
+Chia bai: (243078)popeye1 poker: 8 Tep;3 Co;8 Co
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 2
+TINH DIEM: (243078)popeye1 : 9
+Tinh tien: (243081)popeye2 : -500
+Tinh tien: (243078)popeye1 : 475
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 3500
+Chia bai: (243081)popeye2 poker: 8 Pic;7 Ro;5 Tep
+Chia bai: (243078)popeye1 poker: 2 Ro;4 Ro;4 Tep
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 10
+TINH DIEM: (243078)popeye1 : 10
+Tinh tien: (243081)popeye2 : 6650.0
+Tinh tien: (243078)popeye1 : -7000
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 5000
+Chia bai: (243081)popeye2 poker: 1 Tep;4 Pic;1 Ro
+Chia bai: (243078)popeye1 poker: 5 Co;2 Ro;4 Co
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 6
+TINH DIEM: (243078)popeye1 : 1
+Tinh tien: (243078)popeye1 : -5000
+Tinh tien: (243081)popeye2 : 4750
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 1 Co;9 Tep;9 Pic
+Chia bai: (243078)popeye1 poker: 2 Co;2 Ro;4 Tep
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 9
+TINH DIEM: (243078)popeye1 : 8
+Tinh tien: (243078)popeye1 : -500
+Tinh tien: (243081)popeye2 : 475
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 7 Ro;1 Tep;5 Tep
+Chia bai: (243078)popeye1 poker: 4 Co;1 Ro;4 Pic
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 3
+TINH DIEM: (243078)popeye1 : 9
+Tinh tien: (243078)popeye1 : 475.0
+Tinh tien: (243081)popeye2 : -500
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 7 Pic;9 Co;2 Co
+Chia bai: (243078)popeye1 poker: 4 Co;5 Tep;4 Ro
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 8
+TINH DIEM: (243078)popeye1 : 3
+Tinh tien: (243078)popeye1 : -500
+Tinh tien: (243081)popeye2 : 475
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 4 Co;8 Tep;4 Ro
+Chia bai: (243078)popeye1 poker: 5 Co;9 Tep;1 Tep
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 6
+TINH DIEM: (243078)popeye1 : 5
+Tinh tien: (243078)popeye1 : -500
+Tinh tien: (243081)popeye2 : 475
+
+Bat dau van moi.......
+Dat cuoc: (243078)popeye1 : 500
+Chia bai: (243081)popeye2 poker: 5 Ro;2 Co;8 Co
+Chia bai: (243078)popeye1 poker: 2 Ro;7 Co;2 Pic
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 5
+TINH DIEM: (243078)popeye1 : 1
+Tinh tien: (243078)popeye1 : -500
+Tinh tien: (243081)popeye2 : 475
+
+Ra ngoai ban: (243081)popeye2
+Vao ban: (243099)popeye3
+Bat dau van moi.......
+Dat cuoc: (243099)popeye3 : 500
+Chia bai: (243078)popeye1 poker: 3 Ro;8 Co;5 Co
+Chia bai: (243099)popeye3 poker: 1 Ro;1 Co;8 Ro
+ Ket thuc van 
+TINH DIEM: (243078)popeye1 : 6
+TINH DIEM: (243099)popeye3 : 10
+Tinh tien: (243099)popeye3 : 1425.0
+Tinh tien: (243078)popeye1 : -1500
+
+Ra ngoai ban: (243078)popeye1
+Thoat khoi ban: (243099)Popeye3
+

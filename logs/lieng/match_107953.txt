@@ -1,0 +1,52 @@
+player: popeye2 join
+pure cards: 51#31#7#13#50#8#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+cancel player:betInfo uid: 243078 money:0
+player total call uid: 243078 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+betInfo uid: 243081 money:0
+player total call uid: 243081 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+End game
+
+------------end match
+
+pure cards: 44#11#1#29#4#52#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+cancel player:betInfo uid: 243081 money:0
+player total call uid: 243081 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+betInfo uid: 243078 money:0
+player total call uid: 243078 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+End game
+
+------------end match
+
+pure cards: 21#52#37#41#26#40#
+player : 243078 : bich#bich#bich#
+player : 243081 : bich#bich#bich#
+betInfo uid: 243081 money:0
+player total call uid: 243081 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+betInfo uid: 243078 money:0
+player total call uid: 243078 money: 500 bet money: 0
+Total call: 1000
+roundbet: 500
+End game
+
+------------end match
+
+cancel player:popeye1
+Remove player 243078
+cancel player:popeye2
+
+cancel player:popeye2
+

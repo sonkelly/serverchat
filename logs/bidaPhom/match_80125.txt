@@ -1,0 +1,10 @@
+player: popeye3 join
+player: popeye join
+player: popeye1 join
+
+player: popeye2 join
+
+
+
+cancel player:Popeye3
+

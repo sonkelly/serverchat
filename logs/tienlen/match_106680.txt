@@ -1,0 +1,35 @@
+Tao ban: (243099)popeye3
+Bat dau van moi.......
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  3co 3tep 6ro 6co 7bich 7ro 9tep 9ro 9co 10co 11bich 12co 2co
+Chia bai: (243081)popeye2 poker:  3ro 5ro 5tep 8bich 8tep 8ro 11tep 12ro 12bich 13co 13bich 1tep 2ro
+Danh: (243099)popeye3 42#3 [ 3co 3tep]
+Danh: (243081)popeye2 31#5 [ 5ro 5tep]
+Danh: (243099)popeye3 32#45 [ 6ro 6co]
+Danh: (243081)popeye2 38#25 [ 12ro 12bich]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 29 [ 3ro]
+Danh: (243099)popeye3 41 [ 2co]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243099)popeye3 48#49#24#51 [ 9co 10co 11bich 12co]
+Danh: (243081)popeye2 Bo luot 
+Danh: (243099)popeye3 20#33 [ 7bich 7ro]
+Danh: (243081)popeye2 52#26 [ 13co 13bich]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 21#8#34 [ 8bich 8tep 8ro]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 1 [ 1tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 28 [ 2ro]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243081)popeye2 11 [ 11tep]
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : -1000 ip: /192.168.2.111:53644
+ID van choi matchID: 106680matchNum:1
+Tinh tien: (243081)popeye2 : 950
+ID van choi matchID: 106680matchNum:1
+
+Roi khoi ban: (243081)popeye2
+Roi khoi ban: (243099)popeye3
+

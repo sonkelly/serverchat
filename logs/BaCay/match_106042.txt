@@ -1,0 +1,65 @@
+Tao ban: (242946)zeptest97
+Vao ban: (102)zeptest4
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 3000
+Chia bai: (242946)zeptest97 poker: 2 Ro;9 Tep;4 Ro
+Chia bai: (102)zeptest4 poker: 5 Co;7 Ro;7 Co
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 5
+TINH DIEM: (102)zeptest4 : 9
+Tinh tien: (102)zeptest4 : 2850.0
+Tinh tien: (242946)zeptest97 : -3000
+
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 500
+Chia bai: (242946)zeptest97 poker: 8 Co;1 Tep;8 Pic
+Chia bai: (102)zeptest4 poker: 8 Ro;5 Ro;2 Co
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 7
+TINH DIEM: (102)zeptest4 : 5
+Tinh tien: (102)zeptest4 : -500
+Tinh tien: (242946)zeptest97 : 475
+
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 500
+Chia bai: (242946)zeptest97 poker: 4 Tep;2 Pic;1 Ro
+Chia bai: (102)zeptest4 poker: 5 Ro;5 Tep;8 Co
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 7
+TINH DIEM: (102)zeptest4 : 8
+Tinh tien: (102)zeptest4 : 475.0
+Tinh tien: (242946)zeptest97 : -500
+
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 500
+Chia bai: (242946)zeptest97 poker: 4 Ro;2 Pic;4 Tep
+Chia bai: (102)zeptest4 poker: 8 Co;4 Pic;3 Tep
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 10
+TINH DIEM: (102)zeptest4 : 5
+Tinh tien: (102)zeptest4 : -1000
+Tinh tien: (242946)zeptest97 : 950
+
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 500
+Chia bai: (242946)zeptest97 poker: 1 Ro;8 Tep;8 Co
+Chia bai: (102)zeptest4 poker: 9 Ro;3 Ro;2 Ro
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 7
+TINH DIEM: (102)zeptest4 : 4
+Tinh tien: (102)zeptest4 : -500
+Tinh tien: (242946)zeptest97 : 475
+
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 500
+Chia bai: (242946)zeptest97 poker: 7 Pic;7 Tep;7 Ro
+Chia bai: (102)zeptest4 poker: 5 Tep;2 Ro;4 Ro
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 11
+TINH DIEM: (102)zeptest4 : 1
+Tinh tien: (102)zeptest4 : -1500
+Tinh tien: (242946)zeptest97 : 1425
+
+Ra ngoai ban: (242946)zeptest97
+Thoat khoi ban: (102)van12r
+

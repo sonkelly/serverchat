@@ -1,0 +1,15 @@
+Tao ban: (242946)zeptest97
+Vao ban: (102)zeptest4
+Bat dau van moi.......
+Dat cuoc: (102)zeptest4 : 2000
+Chia bai: (242946)zeptest97 poker: 2 Tep;5 Co;1 Pic
+Chia bai: (102)zeptest4 poker: 4 Pic;7 Tep;5 Ro
+ Ket thuc van 
+TINH DIEM: (242946)zeptest97 : 8
+TINH DIEM: (102)zeptest4 : 6
+Tinh tien: (102)zeptest4 : -2000
+Tinh tien: (242946)zeptest97 : 1900
+
+Ra ngoai ban: (242946)zeptest97
+Thoat khoi ban: (102)van12r
+

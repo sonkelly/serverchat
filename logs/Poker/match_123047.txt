@@ -1,0 +1,23 @@
+player: zeptest95 join: 25000
+pure cards: 52#27#20#31#
+comunity cards: 16#33#46#23#6#
+player : 0 : 13co#1ro
+player : 1 : 7bich#5ro
+do timeout
+betInfo uid: 102 money:3039
+betInfo uid: 242958 money:-1
+do timeout
+
+------------end match
+
+pure cards: 21#9#10#25#
+comunity cards: 13#3#27#49#22#
+player : 0 : 8bich#9tep
+player : 1 : 10tep#12bich
+do timeout
+cancel player:zeptest95
+
+------------end match
+
+cancel player:zeptest4
+

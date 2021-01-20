@@ -1,0 +1,60 @@
+player: zeptest95 join: 25000
+pure cards: 48#3#16#12#
+comunity cards: 32#45#9#6#36#
+player : 0 : 9co#3tep
+player : 1 : 3bich#12tep
+do timeout
+betInfo uid: 102 money:4713
+betInfo uid: 242958 money:-1
+do timeout
+
+------------end match
+
+pure cards: 11#34#51#21#
+comunity cards: 23#18#27#5#33#
+player : 0 : 11tep#8ro
+player : 1 : 12co#8bich
+do timeout
+betInfo uid: 242958 money:15800
+betInfo uid: 102 money:-1
+do timeout
+
+------------end match
+
+pure cards: 10#50#21#32#
+comunity cards: 8#44#45#19#49#
+player : 0 : 10tep#11co
+player : 1 : 8bich#6ro
+do timeout
+betInfo uid: 102 money:14975
+betInfo uid: 242958 money:0
+do timeout
+
+------------end match
+
+pure cards: 29#36#17#11#
+comunity cards: 50#5#47#19#40#
+player : 0 : 3ro#10ro
+player : 1 : 4bich#11tep
+do timeout
+betInfo uid: 242958 money:39201
+betInfo uid: 102 money:0
+do timeout
+
+------------end match
+
+pure cards: 24#41#17#48#
+comunity cards: 35#38#23#19#36#
+player : 0 : 11bich#2co
+player : 1 : 4bich#9co
+do timeout
+betInfo uid: 242958 money:53451
+betInfo uid: 102 money:0
+do timeout
+
+------------end match
+
+cancel player:zeptest4
+Remove player 102
+cancel player:zeptest95
+

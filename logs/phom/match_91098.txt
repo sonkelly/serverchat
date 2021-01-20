@@ -1,0 +1,74 @@
+Tao ban: (243077)popeye
+Vao ban: (243099)popeye3
+Vao ban: (243078)popeye1
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243077)popeye poker: 6 ro|J co|Q tep|At ro|9 co|9 ro|4 ro|4 co|2 co|6 tep|(32 50 12 27 48 35 30 43 41 6)
+Chia bai: (243099)popeye3 poker: 10 ro|J tep|6 co|7 ro|Q co|3 ro|K ro|3 co|J pic|(36 11 45 33 51 29 39 42 24)
+Chia bai: (243078)popeye1 poker: 7 co|K co|K tep|10 co|3 pic|8 pic|7 pic|2 ro|At tep|(46 52 13 49 16 21 20 28 1)
+Chia bai: (243081)popeye2 poker: At pic|Q pic|2 tep|5 pic|At co|4 pic|8 ro|4 tep|2 pic|(14 25 2 18 40 17 34 4 15)
+Danh: (243077)popeye 12 [Q tep]
+Boc bai: (243099)popeye3 3 [3 tep]
+Danh: (243099)popeye3 39 [K ro]
+An bai: (243078)popeye1 39 [K ro]
+Danh: (243078)popeye1 49 [10 co]
+Boc bai: (243081)popeye2 44 [5 co]
+Danh: (243081)popeye2 25 [Q pic]
+Boc bai: (243077)popeye 37 [J ro]
+Danh: (243077)popeye 27 [At ro]
+Boc bai: (243099)popeye3 10 [10 tep]
+Danh: (243099)popeye3 45 [6 co]
+Boc bai: (243078)popeye1 47 [8 co]
+Danh: (243078)popeye1 16 [3 pic]
+An bai: (243081)popeye2 16 [3 pic]
+Danh: (243081)popeye2 34 [8 ro]
+Boc bai: (243077)popeye 9 [9 tep]
+Danh: (243077)popeye 50 [J co]
+An bai: (243099)popeye3 50 [J co]
+Danh: (243099)popeye3 51 [Q co]
+Boc bai: (243078)popeye1 38 [Q ro]
+Danh: (243078)popeye1 38 [Q ro]
+Boc bai: (243081)popeye2 19 [6 pic]
+Danh: (243081)popeye2 44 [5 co]
+Boc bai: (243077)popeye 26 [K pic]
+Danh: (243077)popeye 26 [K pic]
+Boc bai: (243099)popeye3 5 [5 tep]
+Danh: (243099)popeye3 33 [7 ro]
+An bai: (243078)popeye1 33 [7 ro]
+Danh: (243078)popeye1 28 [2 ro]
+An bai: (243081)popeye2 28 [2 ro]
+Danh: (243081)popeye2 4 [4 tep]
+An bai: (243077)popeye 4 [4 tep]
+Danh: (243077)popeye 37 [J ro]
+Boc bai: (243099)popeye3 22 [9 pic]
+Danh: (243099)popeye3 22 [9 pic]
+Boc bai: (243078)popeye1 7 [7 tep]
+Ha: (243078)popeye1 K co|K tep|K ro|(52 13 39) 7 co|7 pic|7 ro|7 tep|(46 20 33 7) 
+Danh: (243078)popeye1 1 [At tep]
+Boc bai: (243081)popeye2 8 [8 tep]
+Ha: (243081)popeye2 2 pic|2 tep|2 ro|(15 2 28) 3 pic|4 pic|5 pic|6 pic|(16 17 18 19) 
+Danh: (243081)popeye2 8 [8 tep]
+Boc bai: (243077)popeye 23 [10 pic]
+Ha: (243077)popeye 4 tep|4 ro|4 co|(4 30 43) 9 tep|9 ro|9 co|(9 35 48) 
+Danh: (243077)popeye 23 [10 pic]
+An bai: (243099)popeye3 23 [10 pic]
+Ha: (243099)popeye3 3 tep|3 ro|3 co|(3 29 42) 10 pic|10 tep|10 ro|(23 10 36) J pic|J tep|J co|(24 11 50) 
+U: (243099)popeye3 TYPE 1
+Bai con lai: (243077)popeye : 6 ro|2 co|6 tep|(32 41 6)
+Diem: (243077)popeye : 0
+Tinh tien: (243077)popeye : -4500
+ID van choi matchID: 91098matchNum:1
+Bai con lai: (243078)popeye1 : 8 pic|8 co|(21 47)
+Diem: (243078)popeye1 : 0
+Tinh tien: (243078)popeye1 : -2500
+ID van choi matchID: 91098matchNum:1
+Bai con lai: (243081)popeye2 : At pic|At co|(14 40)
+Diem: (243081)popeye2 : 0
+Tinh tien: (243081)popeye2 : -1500
+ID van choi matchID: 91098matchNum:1
+Bai con lai: (243099)popeye3 : ()
+Diem: (243099)popeye3 : 0
+Tinh tien: (243099)popeye3 : 8075
+ID van choi matchID: 91098matchNum:1
+
+

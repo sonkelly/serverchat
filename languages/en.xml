@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lang>
+    <kichhoattkGiftcode>Activate your account via telegram and get 3,000 gold Startups to access: t.me/facoclubbot</kichhoattkGiftcode>
+    <hethong>System</hethong>
+    <dangky>Register</dangky>
+    <nphtangban>Giftcode</nphtangban>
+    <khoinghiep>Startup</khoinghiep>
+    <dangky_kichhoat>Register active account</dangky_kichhoat>
+    <logEndGameBida11> ID: %d , winner: %s , %s , %s, ball list must eat: %s, errors : %d </logEndGameBida11>
+    <logEndGameBidaPhom>ID: %d , winner: %s , %s , %s, ball list must eat: %s, errors : %d</logEndGameBidaPhom>
+    <noHu>jackpot: money = %d </noHu>
+    <inPlayingButExitgame>You are charged money for giving up the game.</inPlayingButExitgame>
+    <quan> Gold </quan>
+</lang>

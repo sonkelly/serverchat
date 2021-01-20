@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow>
+   <appname>allinone</appname>
+   <business>
+        <properties>
+            <factory>allinone.business.SimpleBusinessPropertiesFactory</factory>
+        </properties>
+   </business>
+   <lengthPhienTX>20</lengthPhienTX>
+   <isBaoTri>false</isBaoTri>
+   <realGotMoney>0.95</realGotMoney>
+   <moneyReference>500</moneyReference>
+   <loadQuestion>true</loadQuestion>
+   <useCached>false</useCached>
+   <useTaiXiu>true</useTaiXiu>
+   <isBida>true</isBida>
+   <isLogBidaMongo>false</isLogBidaMongo>
+   <ipMongoDB>192.168.2.247</ipMongoDB>
+   <isNodeBB>http://dev.ktc.com/users/createUserToBB</isNodeBB>
+   
+   <websocket>9090</websocket>
+   <basePath>/Users/mac/Projects/VipGame/GameServer/GameServerVip</basePath>
+   <server>
+   <name>vn.game.servers.socket.SocketServer</name>
+   <port>6996</port>
+   <!-- <connecttimeout>60000</connecttimeout>
+   <sessiontimeout>300000</sessiontimeout> -->
+		<connecttimeout>60000</connecttimeout><!--1Min-->
+		<sessiontimeout>180000</sessiontimeout><!--3Min-->
+		<receivebuffersize>50485760</receivebuffersize><!--1MB-->
+		<reuseaddress>true</reuseaddress>
+		<tcpnodelay>true</tcpnodelay>
+    </server>
+	<scheduler>
+		<enable>true</enable>
+	</scheduler>
+</workflow>

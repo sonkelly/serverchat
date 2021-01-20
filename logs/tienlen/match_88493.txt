@@ -1,0 +1,26 @@
+Tao ban: (242921)phong01hn
+Vao ban: (242925)phong02hn
+Bat dau van moi.......
+Chia bai: (242921)phong01hn poker:  5ro 5tep 6bich 7tep 8tep 9bich 10bich 11tep 11ro 12ro 13tep 1bich 1co
+Chia bai: (242925)phong02hn poker:  4ro 4bich 4tep 6ro 6co 6tep 7bich 8bich 10ro 11bich 12co 12tep 13ro
+Danh: (242925)phong02hn 30#17#4 [ 4ro 4bich 4tep]
+Danh: (242921)phong01hn Bo luot 
+Danh: (242925)phong02hn 32#45#6 [ 6ro 6co 6tep]
+Danh: (242921)phong01hn Bo luot 
+Danh: (242925)phong02hn 36#24#51 [ 10ro 11bich 12co]
+Danh: (242921)phong01hn 37#38#13 [ 11ro 12ro 13tep]
+Danh: (242925)phong02hn Bo luot 
+Danh: (242921)phong01hn 5#19#7#8#22#23#11 [ 5tep 6bich 7tep 8tep 9bich 10bich 11tep]
+Danh: (242925)phong02hn Bo luot 
+Danh: (242921)phong01hn 14#40 [ 1bich 1co]
+Danh: (242925)phong02hn Bo luot 
+Danh: (242921)phong01hn 31 [ 5ro]
+ Ket thuc van 
+Tinh tien: (242925)phong02hn : -2000 ip: /192.168.2.50:55022
+ID van choi matchID: 88493matchNum:1
+Tinh tien: (242921)phong01hn : 1900
+ID van choi matchID: 88493matchNum:1
+
+Roi khoi ban: (242921)phong01hn
+Roi khoi ban: (242925)phong02hn
+

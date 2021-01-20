@@ -1,0 +1,34 @@
+player: popeye join
+player: popeye1 join
+player: popeye3 join
+
+Danh tu dong: (243081)popeye2
+
+Danh tu dong: (243081)popeye2
+Danh tu dong: (243078)popeye1
+Danh tu dong: (243081)popeye2
+Danh tu dong: (243077)popeye
+Danh tu dong: (243078)popeye1
+Danh tu dong: (243099)popeye3
+Danh tu dong: (243081)popeye2
+cancel player:popeye123
+Danh tu dong: (243099)popeye3
+cancel player:Popeye321
+Danh tu dong: (243081)popeye2
+Danh tu dong: (243077)popeye
+Danh tu dong: (243078)popeye1
+Danh tu dong: (243081)popeye2
+Danh tu dong: (243077)popeye
+Danh tu dong: (243078)popeye1
+cancel player:popeyee
+cancel player:popeye123
+player: popeye3 join
+Danh tu dong: (243078)popeye1
+
+player: popeye join
+
+cancel player:popeyee
+Remove player 243077
+
+cancel player:popeye123
+

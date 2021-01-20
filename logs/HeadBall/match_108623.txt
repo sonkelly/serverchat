@@ -1,0 +1,11 @@
+player: popeye3 join
+player: phong02hn join
+cancel player:testketban
+Remove player 242925
+player: popeye1 join
+player: phong02hn join
+cancel player:dat_ten_met_vl_3
+cancel player:testketban
+Remove player 242925
+cancel player:popeye123
+

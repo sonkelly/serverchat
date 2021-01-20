@@ -1,0 +1,8 @@
+player: boss12 join
+cancel player:boss1
+Remove player 243008
+player: boss11 join
+
+Remove player 243038
+cancel player:boss1
+

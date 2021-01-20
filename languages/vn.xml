@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lang>
+    <kichhoattkGiftcode>Kích hoạt tài khoản qua telegram nhận ngay 3.000 quan Khởi nghiệp truy cập: t.me/facoclubbot</kichhoattkGiftcode>
+    <hethong>Hệ thống</hethong>
+    <dangky>Đăng ký</dangky>
+    <nphtangban>NPH tặng bạn</nphtangban>
+    <khoinghiep>Khởi nghiệp</khoinghiep>
+    <dangky_kichhoat>Đăng ký Kích hoạt</dangky_kichhoat>
+    <quan> Quan </quan>
+
+    <!-- các tham số: match Id, tên người thắng, nổ hũ, người chơi, bi phải ăn, số sẹo -->
+    <logEndGameBida11> ID ván: %d , người thắng: %s , %s , %s, bi cần ăn: %s, sẹo : %d </logEndGameBida11>
+    <logEndGameBidaPhom>ID ván: %d , người thắng: %s , %s , %s, bi cần ăn: %s, sẹo : %d</logEndGameBidaPhom>
+    <noHu>nổ hũ: tiền = %d </noHu>
+    <inPlayingButExitgame>Bạn bị trừ tiền do bỏ cuộc chơi.</inPlayingButExitgame>
+    
+</lang>

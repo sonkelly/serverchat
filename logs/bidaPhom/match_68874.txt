@@ -1,0 +1,12 @@
+player: samsam join
+player: popeye1 join
+player: popeye2 join
+Danh tu dong: (242923)samsam
+cancel player:sammmmm
+Danh tu dong: (243078)popeye1
+cancel player:sammmm
+Danh tu dong: (242923)samsam
+cancel player:Popeye321
+cancel player:popeye123
+cancel player:sammmmm
+

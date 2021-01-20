@@ -1,0 +1,38 @@
+Tao ban: (242921)phong01hn
+Vao ban: (242925)phong02hn
+Bat dau van moi.......
+Chia bai: (242921)phong01hn poker: 3 ro|K tep|J tep|Q co|J ro|6 pic|2 co|J co|9 pic|6 ro|(29 13 11 51 37 19 41 50 22 32)
+Chia bai: (242925)phong02hn poker: At pic|2 ro|Q pic|10 ro|Q tep|At ro|K co|6 co|8 tep|(14 28 25 36 12 27 52 45 8)
+Danh: (242921)phong01hn 51 [Q co]
+An bai: (242925)phong02hn 51 [Q co]
+Danh: (242925)phong02hn 52 [K co]
+Boc bai: (242921)phong01hn 16 [3 pic]
+Danh: (242921)phong01hn 13 [K tep]
+Boc bai: (242925)phong02hn 40 [At co]
+Danh: (242925)phong02hn 36 [10 ro]
+Boc bai: (242921)phong01hn 44 [5 co]
+Danh: (242921)phong01hn 22 [9 pic]
+Boc bai: (242925)phong02hn 10 [10 tep]
+Danh: (242925)phong02hn 10 [10 tep]
+Boc bai: (242921)phong01hn 9 [9 tep]
+Danh: (242921)phong01hn 9 [9 tep]
+Boc bai: (242925)phong02hn 20 [7 pic]
+Ha: (242925)phong02hn At pic|At ro|At co|(14 27 40) Q pic|Q tep|Q co|(25 12 51) 
+Danh: (242925)phong02hn 8 [8 tep]
+Boc bai: (242921)phong01hn 30 [4 ro]
+Ha: (242921)phong01hn J tep|J ro|J co|(11 37 50) 
+Danh: (242921)phong01hn 32 [6 ro]
+ Ket thuc van 
+Bai con lai: (242921)phong01hn : 3 ro|6 pic|2 co|3 pic|5 co|4 ro|(29 19 41 16 44 30)
+Diem: (242921)phong01hn : 23
+Tinh tien: (242921)phong01hn : -2000
+ID van choi matchID: 85183matchNum:1
+Bai con lai: (242925)phong02hn : 2 ro|6 co|7 pic|(28 45 20)
+Diem: (242925)phong02hn : 15
+Tinh tien: (242925)phong02hn : 1900
+ID van choi matchID: 85183matchNum:1
+
+Bat dau van moi.......
+Chia bai: (242921)phong01hn poker: Q pic|10 pic|6 ro|2 co|8 ro|6 co|7 pic|K tep|J tep|(25 23 32 41 34 45 20 13 11)
+Chia bai: (242925)phong02hn poker: 6 pic|J ro|2 tep|7 co|5 pic|At co|5 ro|9 ro|K ro|9 co|(19 37 2 46 18 40 31 35 39 48)
+

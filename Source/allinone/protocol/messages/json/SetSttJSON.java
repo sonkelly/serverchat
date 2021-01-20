@@ -1,0 +1,60 @@
+package allinone.protocol.messages.json;
+
+import org.json.JSONObject;
+import org.slf4j.Logger;
+
+import vn.game.common.LoggerContext;
+import vn.game.common.ServerException;
+import vn.game.protocol.IMessageProtocol;
+import vn.game.protocol.IRequestMessage;
+import vn.game.protocol.IResponseMessage;
+import allinone.data.AIOConstants;
+import allinone.data.ResponseCode;
+import allinone.protocol.messages.SetSttRequest;
+import allinone.protocol.messages.SetSttResponse;
+
+public class SetSttJSON implements IMessageProtocol {
+
+    private final Logger mLog =
+            LoggerContext.getLoggerFactory().getLogger(SetSttJSON.class);
+
+    public boolean decode(Object aEncodedObj, IRequestMessage aDecodingObj) throws ServerException {
+        try {
+            JSONObject jsonData = (JSONObject) aEncodedObj;
+            SetSttRequest addAvatar = (SetSttRequest) aDecodingObj;
+            String value = jsonData.getString("v");
+            
+            addAvatar.status = value;
+            
+            
+            return true;
+        } catch (Throwable t) {
+            mLog.error("[DECODER] " + aDecodingObj.getID(), t);
+            return false;
+        }
+    }
+
+    public Object encode(IResponseMessage aResponseMessage) throws ServerException {
+        try {
+            JSONObject encodingObj = new JSONObject();
+           
+            // cast response obj
+            SetSttResponse res = (SetSttResponse) aResponseMessage;
+            
+            StringBuilder sb = new StringBuilder();
+            sb.append(Integer.toString(aResponseMessage.getID())).append(AIOConstants.SEPERATOR_BYTE_1);
+            sb.append(Integer.toString(res.mCode)).append(AIOConstants.SEPERATOR_NEW_MID);
+            
+            if (res.mCode == ResponseCode.FAILURE) {
+                     sb.append(res.mErrorMsg);
+            }
+            
+            
+            // response encoded obj
+            return encodingObj;
+        } catch (Throwable t) {
+            mLog.error("[ENCODER] " + aResponseMessage.getID(), t);
+            return null;
+        }
+    }
+}

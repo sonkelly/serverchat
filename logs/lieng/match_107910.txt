@@ -1,0 +1,19 @@
+player: popeye1 join
+pure cards: 24#10#30#47#36#40#
+player : 243081 : bich#bich#bich#
+player : 243078 : bich#bich#bich#
+do timeout
+Do time out with currIndex 0
+betInfo uid: 243081 money:-1
+
+------------end match
+
+pure cards: 36#5#26#12#23#16#
+player : 243081 : bich#bich#bich#
+player : 243078 : bich#bich#bich#
+do timeout
+Do time out with currIndex 1
+betInfo uid: 243078 money:-1
+
+------------end match
+

@@ -1,0 +1,54 @@
+Tao ban: (243078)popeye1
+Vao ban: (243099)popeye3
+Vao ban: (243077)popeye
+Vao ban: (243081)popeye2
+Bat dau van moi.......
+Chia bai: (243078)popeye1 poker: 9 tep|Q pic|9 pic|10 ro|At ro|9 co|4 ro|5 co|8 ro|2 tep|(9 25 22 36 27 48 30 44 34 2)
+Chia bai: (243099)popeye3 poker: 10 tep|4 tep|Q ro|At pic|6 ro|5 ro|J co|7 ro|4 co|(10 4 38 14 32 31 50 33 43)
+Chia bai: (243081)popeye2 poker: 2 pic|6 co|J ro|5 pic|6 pic|10 pic|At co|3 ro|7 co|(15 45 37 18 19 23 40 29 46)
+Danh: (243078)popeye1 27 [At ro]
+Boc bai: (243099)popeye3 24 [J pic]
+Danh: (243099)popeye3 10 [10 tep]
+Boc bai: (243081)popeye2 11 [J tep]
+Danh: (243081)popeye2 23 [10 pic]
+Boc bai: (243078)popeye1 16 [3 pic]
+Danh: (243078)popeye1 44 [5 co]
+Boc bai: (243099)popeye3 52 [K co]
+Danh: (243099)popeye3 38 [Q ro]
+Boc bai: (243081)popeye2 8 [8 tep]
+Danh: (243081)popeye2 40 [At co]
+Boc bai: (243078)popeye1 3 [3 tep]
+Danh: (243078)popeye1 30 [4 ro]
+Boc bai: (243099)popeye3 5 [5 tep]
+Danh: (243099)popeye3 5 [5 tep]
+Boc bai: (243081)popeye2 20 [7 pic]
+Danh: (243081)popeye2 29 [3 ro]
+Boc bai: (243078)popeye1 51 [Q co]
+Ha: (243078)popeye1 9 tep|9 pic|9 co|(9 22 48) 
+Danh: (243078)popeye1 34 [8 ro]
+Boc bai: (243099)popeye3 39 [K ro]
+Ha: (243099)popeye3 5 ro|6 ro|7 ro|(31 32 33) 
+Danh: (243099)popeye3 14 [At pic]
+Boc bai: (243081)popeye2 12 [Q tep]
+Ha: (243081)popeye2 5 pic|6 pic|7 pic|(18 19 20) 
+Danh: (243081)popeye2 8 [8 tep]
+ Ket thuc van 
+Bai con lai: (243099)popeye3 : 4 tep|J co|4 co|J pic|K co|K ro|(4 50 43 24 52 39)
+Diem: (243099)popeye3 : 56
+Tinh tien: (243099)popeye3 : -1000
+ID van choi matchID: 91112matchNum:1
+Bai con lai: (243081)popeye2 : 2 pic|6 co|J ro|7 co|J tep|Q tep|(15 45 37 46 11 12)
+Diem: (243081)popeye2 : 49
+Tinh tien: (243081)popeye2 : -500
+ID van choi matchID: 91112matchNum:1
+Bai con lai: (243078)popeye1 : Q pic|10 ro|2 tep|3 pic|3 tep|Q co|(25 36 2 16 3 51)
+Diem: (243078)popeye1 : 42
+Tinh tien: (243078)popeye1 : 1425
+ID van choi matchID: 91112matchNum:1
+
+
+
+Thoat khoi ban: (243078)popeye123
+Thoat khoi ban: (243099)Popeye3
+Thoat khoi ban: (243081)Popeye321
+

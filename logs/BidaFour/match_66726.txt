@@ -1,0 +1,16 @@
+player: popeye1 join
+player: samsam join
+player: samsam2 join
+
+cancel player:popeye123
+cancel player:Popeye321
+cancel player:sammmmm
+
+cancel player:popeye123
+Remove player 243078
+cancel player:sammmmm
+Remove player 242924
+cancel player:sammmm
+Remove player 242923
+cancel player:Popeye321
+

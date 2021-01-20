@@ -1,0 +1,53 @@
+Tao ban: (242925)phong02hn
+Vao ban: (242941)phong03hn
+Vao ban: (242921)phong01hn
+Bat dau van moi.......
+Chia bai: (242925)phong02hn poker: Q tep|At ro|Q ro|10 co|5 co|6 tep|K ro|Q pic|K pic|3 tep|(12 27 38 49 44 6 39 25 26 3)
+Chia bai: (242941)phong03hn poker: 5 pic|J ro|9 co|6 ro|J co|10 pic|3 co|J pic|8 ro|(18 37 48 32 50 23 42 24 34)
+Chia bai: (242921)phong01hn poker: J tep|6 pic|8 tep|8 pic|At co|5 tep|9 ro|At tep|8 co|(11 19 8 21 40 5 35 1 47)
+Danh: (242925)phong02hn 49 [10 co]
+An bai: (242941)phong03hn 49 [10 co]
+Danh: (242941)phong03hn 18 [5 pic]
+Boc bai: (242921)phong01hn 51 [Q co]
+Danh: (242921)phong01hn 51 [Q co]
+Boc bai: (242925)phong02hn 31 [5 ro]
+Danh: (242925)phong02hn 6 [6 tep]
+Boc bai: (242941)phong03hn 7 [7 tep]
+Danh: (242941)phong03hn 23 [10 pic]
+Boc bai: (242921)phong01hn 29 [3 ro]
+Danh: (242921)phong01hn 11 [J tep]
+Boc bai: (242925)phong02hn 2 [2 tep]
+Danh: (242925)phong02hn 27 [At ro]
+Boc bai: (242941)phong03hn 41 [2 co]
+Danh: (242941)phong03hn 7 [7 tep]
+Boc bai: (242921)phong01hn 13 [K tep]
+Danh: (242921)phong01hn 13 [K tep]
+Boc bai: (242925)phong02hn 28 [2 ro]
+Danh: (242925)phong02hn 2 [2 tep]
+Boc bai: (242941)phong03hn 52 [K co]
+Ha: (242941)phong03hn 9 co|10 co|J co|(48 49 50) 
+Danh: (242941)phong03hn 52 [K co]
+Boc bai: (242921)phong01hn 36 [10 ro]
+Ha: (242921)phong01hn 8 pic|8 tep|8 co|(21 8 47) 
+Danh: (242921)phong01hn 36 [10 ro]
+Boc bai: (242925)phong02hn 16 [3 pic]
+Ha: (242925)phong02hn Q pic|Q tep|Q ro|(25 12 38) 
+Danh: (242925)phong02hn 39 [K ro]
+ Ket thuc van 
+Bai con lai: (242925)phong02hn : 5 co|K pic|3 tep|5 ro|2 ro|3 pic|(44 26 3 31 28 16)
+Diem: (242925)phong02hn : 31
+Tinh tien: (242925)phong02hn : -1000
+ID van choi matchID: 85078matchNum:1
+Bai con lai: (242941)phong03hn : J ro|6 ro|3 co|J pic|8 ro|2 co|(37 32 42 24 34 41)
+Diem: (242941)phong03hn : 41
+Tinh tien: (242941)phong03hn : -500
+ID van choi matchID: 85078matchNum:1
+Bai con lai: (242921)phong01hn : 6 pic|At co|5 tep|9 ro|At tep|3 ro|(19 40 5 35 1 29)
+Diem: (242921)phong01hn : 25
+Tinh tien: (242921)phong01hn : 1425
+ID van choi matchID: 85078matchNum:1
+
+Thoat khoi ban: (242925)testketban
+Thoat khoi ban: (242941)phongdaica
+Thoat khoi ban: (242921)dat_ten_met_vl_3
+

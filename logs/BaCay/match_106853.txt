@@ -1,0 +1,75 @@
+Tao ban: (243081)popeye2
+Vao ban: (243099)popeye3
+Bat dau van moi.......
+Dat cuoc: (243099)popeye3 : 5000
+Chia bai: (243081)popeye2 poker: 5 Pic;3 Ro;3 Tep
+Chia bai: (243099)popeye3 poker: 7 Tep;7 Ro;6 Tep
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 1
+TINH DIEM: (243099)popeye3 : 10
+Tinh tien: (243099)popeye3 : 9500.0
+Tinh tien: (243081)popeye2 : -10000
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 5000
+Chia bai: (243081)popeye2 poker: 5 Co;9 Pic;1 Pic
+Chia bai: (243099)popeye3 poker: 5 Pic;1 Tep;7 Co
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 5
+TINH DIEM: (243099)popeye3 : 3
+Tinh tien: (243081)popeye2 : 4750.0
+Tinh tien: (243099)popeye3 : -5000
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 5000
+Chia bai: (243081)popeye2 poker: 1 Ro;3 Tep;1 Co
+Chia bai: (243099)popeye3 poker: 3 Ro;7 Ro;7 Pic
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 5
+TINH DIEM: (243099)popeye3 : 7
+Tinh tien: (243081)popeye2 : -5000
+Tinh tien: (243099)popeye3 : 4750
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 5000
+Chia bai: (243081)popeye2 poker: 6 Tep;1 Ro;7 Co
+Chia bai: (243099)popeye3 poker: 3 Co;3 Pic;2 Pic
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 4
+TINH DIEM: (243099)popeye3 : 8
+Tinh tien: (243081)popeye2 : -5000
+Tinh tien: (243099)popeye3 : 4750
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 5000
+Chia bai: (243081)popeye2 poker: 4 Ro;6 Pic;5 Pic
+Chia bai: (243099)popeye3 poker: 6 Co;5 Ro;8 Tep
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 5
+TINH DIEM: (243099)popeye3 : 9
+Tinh tien: (243081)popeye2 : -5000
+Tinh tien: (243099)popeye3 : 4750
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 500
+Chia bai: (243081)popeye2 poker: 8 Pic;3 Tep;8 Co
+Chia bai: (243099)popeye3 poker: 2 Ro;1 Ro;5 Ro
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 9
+TINH DIEM: (243099)popeye3 : 8
+Tinh tien: (243081)popeye2 : 475.0
+Tinh tien: (243099)popeye3 : -500
+
+Bat dau van moi.......
+Dat cuoc: (243081)popeye2 : 500
+Chia bai: (243081)popeye2 poker: 4 Pic;8 Ro;9 Pic
+Chia bai: (243099)popeye3 poker: 3 Tep;8 Co;5 Co
+ Ket thuc van 
+TINH DIEM: (243081)popeye2 : 1
+TINH DIEM: (243099)popeye3 : 6
+Tinh tien: (243081)popeye2 : -500
+Tinh tien: (243099)popeye3 : 475
+
+Ra ngoai ban: (243099)popeye3
+Thoat khoi ban: (243081)Popeye321
+

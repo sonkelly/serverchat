@@ -1,0 +1,58 @@
+Tao ban: (243077)popeye
+Vao ban: (243081)popeye2
+Thoat khoi ban: (243081)Popeye321
+Vao ban: (243078)popeye1
+Vao ban: (243099)popeye3
+Bat dau van moi.......
+Chia bai: (243077)popeye poker: 10 pic|3 pic|9 co|3 tep|J tep|3 co|7 co|8 pic|At ro|9 pic|(23 16 48 3 11 42 46 21 27 22)
+Chia bai: (243078)popeye1 poker: 6 pic|8 ro|Q ro|At tep|4 co|6 tep|Q pic|10 ro|2 tep|(19 34 38 1 43 6 25 36 2)
+Chia bai: (243099)popeye3 poker: 5 co|6 co|K co|9 ro|5 ro|Q tep|4 pic|10 tep|2 ro|(44 45 52 35 31 12 17 10 28)
+Vao ban: (243081)popeye2
+Danh: (243077)popeye 11 [J tep]
+Boc bai: (243078)popeye1 51 [Q co]
+Danh: (243078)popeye1 36 [10 ro]
+Boc bai: (243099)popeye3 32 [6 ro]
+Danh: (243099)popeye3 12 [Q tep]
+Boc bai: (243077)popeye 24 [J pic]
+Danh: (243077)popeye 27 [At ro]
+Boc bai: (243078)popeye1 41 [2 co]
+Danh: (243078)popeye1 34 [8 ro]
+Boc bai: (243099)popeye3 26 [K pic]
+Danh: (243099)popeye3 26 [K pic]
+Boc bai: (243077)popeye 9 [9 tep]
+Danh: (243077)popeye 46 [7 co]
+Boc bai: (243078)popeye1 7 [7 tep]
+Danh: (243078)popeye1 7 [7 tep]
+Boc bai: (243099)popeye3 15 [2 pic]
+Danh: (243099)popeye3 35 [9 ro]
+An bai: (243077)popeye 35 [9 ro]
+Danh: (243077)popeye 24 [J pic]
+Boc bai: (243078)popeye1 47 [8 co]
+Ha: (243078)popeye1 Q ro|Q pic|Q co|(38 25 51) 
+Danh: (243078)popeye1 47 [8 co]
+Boc bai: (243099)popeye3 20 [7 pic]
+Ha: (243099)popeye3 
+Danh: (243099)popeye3 20 [7 pic]
+An bai: (243077)popeye 20 [7 pic]
+Ha: (243077)popeye 9 co|9 pic|9 tep|9 ro|(48 22 9 35) 3 pic|3 tep|3 co|(16 3 42) 
+Danh: (243077)popeye 21 [8 pic]
+Boc bai: (243078)popeye1 14 [At pic]
+Danh: (243078)popeye1 2 [2 tep]
+ Ket thuc van 
+Bai con lai: (243078)popeye1 : 6 pic|At tep|4 co|6 tep|2 co|At pic|(19 1 43 6 41 14)
+Diem: (243078)popeye1 : 20
+Tinh tien: (243078)popeye1 : -500
+ID van choi matchID: 91076matchNum:1
+Bai con lai: (243099)popeye3 : 5 co|6 co|K co|5 ro|4 pic|10 tep|2 ro|6 ro|2 pic|(44 45 52 31 17 10 28 32 15)
+Diem: (243099)popeye3 : 1000
+Tinh tien: (243099)popeye3 : -6000
+ID van choi matchID: 91076matchNum:1
+Bai con lai: (243077)popeye : 10 pic|7 pic|(23 20)
+Diem: (243077)popeye : 17
+Tinh tien: (243077)popeye : 6175
+ID van choi matchID: 91076matchNum:1
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker: 6 pic|J pic|K tep|K co|Q tep|9 ro|6 ro|4 co|8 pic|K pic|(19 24 13 52 12 35 32 43 21 26)
+Chia bai: (243081)popeye2 poker: 7 pic|7 co|8 tep|At tep|7 ro|7 tep|2 co|6 co|J ro|(20 46 8 1 33 7 41 45 37)
+

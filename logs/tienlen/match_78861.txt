@@ -1,0 +1,155 @@
+Tao ban: (243099)popeye3
+Bat dau van moi.......
+Vao ban: (243078)popeye1
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  3ro 3co 3bich 5bich 5tep 6bich 6co 6ro 7tep 8bich 8ro 11tep 2bich
+Chia bai: (243078)popeye1 poker:  4tep 4ro 7co 9bich 10co 10ro 11bich 11co 1bich 1tep 1co 2tep 2co
+Danh: (243078)popeye1 30#4 [ 4ro 4tep]
+Danh: (243099)popeye3 18#5 [ 5bich 5tep]
+Danh: (243078)popeye1 49#36 [ 10co 10ro]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 24#50 [ 11bich 11co]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 14#1#40 [ 1bich 1tep 1co]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 46 [ 7co]
+Danh: (243099)popeye3 11 [ 11tep]
+Danh: (243078)popeye1 2 [ 2tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 22 [ 9bich]
+Danh: (243099)popeye3 15 [ 2bich]
+Danh: (243078)popeye1 41 [ 2co]
+
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : -4500 ip: /0:0:0:0:0:0:0:1:60108
+ID van choi matchID: 78861matchNum:1
+Tinh tien: (243078)popeye1 : 4275
+ID van choi matchID: 78861matchNum:1
+
+Bat dau van moi.......
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  3co 4co 4tep 5ro 5tep 6co 7tep 8ro 10co 10bich 12tep 1bich 2co
+Chia bai: (243078)popeye1 poker:  3ro 4bich 6tep 9bich 9ro 11bich 12co 12ro 13bich 13co 1co 1ro 2tep
+Danh tu dong: (243099)popeye3
+Danh: (243099)popeye3 42 [ 3co]
+Danh: (243078)popeye1 17 [ 4bich]
+Danh: (243099)popeye3 12 [ 12tep]
+Danh: (243078)popeye1 2 [ 2tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 22#35 [ 9bich 9ro]
+Danh: (243099)popeye3 49#23 [ 10co 10bich]
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 4#5#45#7#34 [ 4tep 5tep 6co 7tep 8ro]
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 31 [ 5ro]
+Danh: (243078)popeye1 6 [ 6tep]
+Danh: (243099)popeye3 14 [ 1bich]
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 41 [ 2co]
+Danh: (243078)popeye1 51#38#26#52#40#27 [ 12co 12ro 13bich 13co 1co 1ro]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 29 [ 3ro]
+Danh: (243099)popeye3 43 [ 4co]
+
+ Ket thuc van 
+Tinh tien: (243078)popeye1 : 1500 ip: /0:0:0:0:0:0:0:1:60299
+ID van choi matchID: 78861matchNum:2
+Tinh tien: (243099)popeye3 : -1500
+ID van choi matchID: 78861matchNum:2
+
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  3co 4co 4bich 4tep 7co 7ro 9ro 9co 10tep 10bich 11ro 11tep 13ro
+Chia bai: (243078)popeye1 poker:  4ro 5tep 5ro 6tep 8co 8ro 10co 11co 12ro 12co 13co 1tep 2co
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 30 [ 4ro]
+Danh: (243099)popeye3 39 [ 13ro]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 43#17#4 [ 4co 4bich 4tep]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh tu dong: (243099)popeye3
+Danh: (243099)popeye3 42 [ 3co]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh tu dong: (243099)popeye3
+Danh: (243099)popeye3 46 [ 7co]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh tu dong: (243099)popeye3
+Danh: (243099)popeye3 33 [ 7ro]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 Bo luot 
+Danh: (243099)popeye3 Bo luot 
+Danh: (243099)popeye3 35#48#10#23#37#11 [ 9ro 9co 10tep 10bich 11ro 11tep]
+ Ket thuc van 
+Tinh tien: (243078)popeye1 : -8000 ip: /0:0:0:0:0:0:0:1:60299
+ID van choi matchID: 78861matchNum:3
+Tinh tien: (243099)popeye3 : 7600
+ID van choi matchID: 78861matchNum:3
+
+Roi khoi ban: Bat dau van moi.......
+Bat dau van moi.......
+Vao ban: (243078)popeye1
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  3co 4bich 5co 6ro 6tep 8bich 8co 10bich 11ro 12bich 13ro 1bich 2tep
+Chia bai: (243078)popeye1 poker:  3tep 4ro 5bich 6co 7co 9tep 10co 10tep 10ro 11tep 11co 13bich 1co
+Danh: (243078)popeye1 3#30#18#45#46 [ 3tep 4ro 5bich 6co 7co]
+Danh: (243099)popeye3 23#37#25#39#14 [ 10bich 11ro 12bich 13ro 1bich]
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 42#17#44#6 [ 3co 4bich 5co 6tep]
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 21#47 [ 8bich 8co]
+Danh: (243078)popeye1 49#10 [ 10co 10tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 9#36#11 [ 9tep 10ro 11tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 50 [ 11co]
+Danh: (243099)popeye3 2 [ 2tep]
+Danh: (243078)popeye1 Bo luot 
+Danh tu dong: (243099)popeye3
+Danh: (243099)popeye3 32 [ 6ro]
+ Ket thuc van 
+Tinh tien: (243078)popeye1 : -1000 ip: /0:0:0:0:0:0:0:1:60299
+ID van choi matchID: 78861matchNum:4
+Tinh tien: (243099)popeye3 : 950
+ID van choi matchID: 78861matchNum:4
+
+Bat dau van moi.......
+Bat dau van moi.......
+Chia bai: (243099)popeye3 poker:  3bich 4tep 5ro 6ro 6bich 7ro 7bich 8bich 8tep 10tep 11co 13bich 2co
+Chia bai: (243078)popeye1 poker:  3ro 4co 5tep 8ro 9co 9bich 9tep 10bich 10co 11tep 13tep 1tep 2ro
+Danh: (243078)popeye1 29#43#5 [ 3ro 4co 5tep]
+Danh: (243099)popeye3 16#4#31 [ 3bich 4tep 5ro]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh tu dong: (243099)popeye3
+Danh: (243099)popeye3 32 [ 6ro]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 19#20#21 [ 6bich 7bich 8bich]
+Danh: (243078)popeye1 34#22#23 [ 8ro 9bich 10bich]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 49#11#9 [ 10co 11tep 9tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 13#1#28 [ 13tep 1tep 2ro]
+Danh tu dong: (243078)popeye1
+Danh: (243078)popeye1 48 [ 9co]
+Danh: (243099)popeye3 10 [ 10tep]
+Danh: (243078)popeye1 13 [ 13tep]
+Danh: (243099)popeye3 41 [ 2co]
+Danh: (243078)popeye1 Bo luot 
+Danh: (243099)popeye3 33 [ 7ro]
+Danh: (243078)popeye1 1 [ 1tep]
+Danh: (243099)popeye3 Bo luot 
+Danh: (243078)popeye1 28 [ 2ro]
+ Ket thuc van 
+Tinh tien: (243099)popeye3 : -1500 ip: /0:0:0:0:0:0:0:1:60108
+ID van choi matchID: 78861matchNum:5
+Tinh tien: (243078)popeye1 : 1425
+ID van choi matchID: 78861matchNum:5
+
+Roi khoi ban: (243078)popeye1
+Roi khoi ban: (243099)popeye3
+

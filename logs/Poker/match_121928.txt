@@ -1,0 +1,17 @@
+player: phong02hn join: 25000
+pure cards: 23#41#42#49#
+comunity cards: 25#21#8#2#7#
+player : 0 : 10bich#2co
+player : 1 : 3co#10co
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 242921 money:-1
+do timeout
+
+------------end match
+
+cancel player:phong01hn
+Remove player 242921
+cancel player:phong02hn
+

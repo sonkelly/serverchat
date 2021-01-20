@@ -1,0 +1,43 @@
+Tao ban: (242946)zeptest97
+Vao ban: (102)zeptest4
+Bat dau van moi.......
+Chia bai: (242946)zeptest97 poker:  3ro 6bich 7ro 9co 9tep 10bich 10co 11tep 12ro 13co 13bich 1tep 2co
+Chia bai: (102)zeptest4 poker:  4tep 4co 5tep 5co 7bich 9bich 10ro 10tep 11co 11bich 13tep 1ro 1co
+Danh: (242946)zeptest97 41 [ 2co]
+Danh: (102)zeptest4 Bo luot 
+Danh: (242946)zeptest97 9#23#11#38#26#1 [ 9tep 10bich 11tep 12ro 13bich 1tep]
+Danh tu dong: (102)zeptest4
+Danh: (102)zeptest4 Bo luot 
+Danh tu dong: (242946)zeptest97
+Danh: (242946)zeptest97 29 [ 3ro]
+Danh tu dong: (102)zeptest4
+Danh: (102)zeptest4 Bo luot 
+Danh tu dong: (242946)zeptest97
+Danh: (242946)zeptest97 19 [ 6bich]
+Danh tu dong: (102)zeptest4
+Danh: (102)zeptest4 Bo luot 
+Danh tu dong: (242946)zeptest97
+Danh: (242946)zeptest97 33 [ 7ro]
+Danh tu dong: (102)zeptest4
+Danh: (102)zeptest4 Bo luot 
+Danh tu dong: (242946)zeptest97
+Danh: (242946)zeptest97 48 [ 9co]
+Danh tu dong: (102)zeptest4
+Danh: (102)zeptest4 Bo luot 
+Danh tu dong: (242946)zeptest97
+Danh: (242946)zeptest97 49 [ 10co]
+Danh tu dong: (102)zeptest4
+Danh: (102)zeptest4 Bo luot 
+Danh tu dong: (242946)zeptest97
+Danh: (242946)zeptest97 52 [ 13co]
+ Ket thuc van 
+Tinh tien: (102)zeptest4 : -13000 ip: /192.168.2.6:57568
+ID van choi matchID: 106089matchNum:1
+Tinh tien: (242946)zeptest97 : 12350
+ID van choi matchID: 106089matchNum:1
+
+
+Roi khoi ban: (102)zeptest4
+
+Roi khoi ban: (242946)zeptest97
+

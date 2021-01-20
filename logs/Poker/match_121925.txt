@@ -1,0 +1,63 @@
+player: phong02hn join: 25000
+pure cards: 50#32#35#6#
+comunity cards: 49#29#15#14#27#
+player : 0 : 11co#6ro
+player : 1 : 9ro#6tep
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 242921 money:-1
+do timeout
+
+------------end match
+
+pure cards: 27#46#41#26#
+comunity cards: 44#38#51#29#4#
+player : 0 : 1ro#7co
+player : 1 : 2co#13bich
+do timeout
+do timeout
+Do time out with currIndex 1
+betInfo uid: 242925 money:-1
+do timeout
+
+------------end match
+
+pure cards: 14#20#28#47#
+comunity cards: 18#35#15#22#48#
+player : 0 : 1bich#7bich
+player : 1 : 2ro#8co
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 242921 money:-1
+do timeout
+
+------------end match
+
+pure cards: 44#47#19#38#
+comunity cards: 2#50#30#29#27#
+player : 0 : 5co#8co
+player : 1 : 6bich#12ro
+do timeout
+do timeout
+Do time out with currIndex 1
+betInfo uid: 242925 money:-1
+do timeout
+
+------------end match
+
+pure cards: 48#9#44#15#
+comunity cards: 50#1#19#26#39#
+player : 0 : 9co#9tep
+player : 1 : 5co#2bich
+do timeout
+do timeout
+Do time out with currIndex 0
+betInfo uid: 242921 money:-1
+do timeout
+
+------------end match
+
+cancel player:phong02hn
+

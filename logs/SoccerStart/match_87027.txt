@@ -1,0 +1,11 @@
+player: manhuni2 join
+cancel player:MANHUNI2
+Remove player 95396
+player: manhuni2 join
+player: manhuni2 join
+cancel player:MANHUNI2
+Remove player 95396
+player: manhuni2 join
+player: manhuni2 join
+cancel player:manhuni1s
+
